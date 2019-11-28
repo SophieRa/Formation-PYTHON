@@ -1,0 +1,1423 @@
+"USUBJID","ARM","ARMN","PARAM","PARAMCD","AVAL","BASE","CHG","PCHG","AVISIT","AVISITN"
+"ID001","Experimental 1",2,"Score 1","S1",3.22,3.22,NA,NA,"BASELINE",1
+"ID001","Experimental 1",2,"Score 1","S1",3.17,3.22,-0.05,-1.552795031,"WEEK 24",2
+"ID001","Experimental 1",2,"Score 1","S1",3.13,3.22,-0.09,-2.795031056,"WEEK 36",3
+"ID001","Experimental 1",2,"Score 1","S1",2.7,3.22,-0.52,-16.14906832,"WEEK 52",4
+"ID001","Experimental 1",2,"Score 2","S2",3.62,3.62,NA,NA,"BASELINE",1
+"ID001","Experimental 1",2,"Score 2","S2",3.65,3.62,0.03,0.8287292818,"WEEK 24",2
+"ID001","Experimental 1",2,"Score 2","S2",3.41,3.62,-0.21,-5.801104972,"WEEK 36",3
+"ID001","Experimental 1",2,"Score 2","S2",3.1,3.62,-0.52,-14.36464088,"WEEK 52",4
+"ID002","Experimental 1",2,"Score 1","S1",2.43,2.43,NA,NA,"BASELINE",1
+"ID002","Experimental 1",2,"Score 1","S1",2.27,2.43,-0.16,-6.58436214,"WEEK 24",2
+"ID002","Experimental 1",2,"Score 1","S1",2.34,2.43,-0.09,-3.703703704,"WEEK 36",3
+"ID002","Experimental 1",2,"Score 1","S1",2.32,2.43,-0.11,-4.526748971,"WEEK 52",4
+"ID002","Experimental 1",2,"Score 2","S2",3.24,3.24,NA,NA,"BASELINE",1
+"ID002","Experimental 1",2,"Score 2","S2",3.1,3.24,-0.14,-4.320987654,"WEEK 24",2
+"ID002","Experimental 1",2,"Score 2","S2",3.24,3.24,0,0,"WEEK 36",3
+"ID002","Experimental 1",2,"Score 2","S2",3.07,3.24,-0.17,-5.24691358,"WEEK 52",4
+"ID003","Experimental 1",2,"Score 1","S1",1.47,1.47,NA,NA,"BASELINE",1
+"ID003","Experimental 1",2,"Score 1","S1",1.34,1.47,-0.13,-8.843537415,"WEEK 24",2
+"ID003","Experimental 1",2,"Score 2","S2",1.77,1.77,NA,NA,"BASELINE",1
+"ID003","Experimental 1",2,"Score 2","S2",1.57,1.77,-0.2,-11.29943503,"WEEK 24",2
+"ID004","Placebo",1,"Score 1","S1",1.92,1.92,NA,NA,"BASELINE",1
+"ID004","Placebo",1,"Score 1","S1",1.85,1.92,-0.07,-3.645833333,"WEEK 24",2
+"ID004","Placebo",1,"Score 1","S1",1.82,1.92,-0.1,-5.208333333,"WEEK 36",3
+"ID004","Placebo",1,"Score 1","S1",1.81,1.92,-0.11,-5.729166667,"WEEK 52",4
+"ID004","Placebo",1,"Score 2","S2",2.24,2.24,NA,NA,"BASELINE",1
+"ID004","Placebo",1,"Score 2","S2",2.2,2.24,-0.04,-1.785714286,"WEEK 24",2
+"ID004","Placebo",1,"Score 2","S2",2.22,2.24,-0.02,-0.892857143,"WEEK 36",3
+"ID004","Placebo",1,"Score 2","S2",2.1,2.24,-0.14,-6.25,"WEEK 52",4
+"ID004","Placebo",1,"Score 2","S2",2.16,2.24,-0.08,-3.571428571,"WEEK 52",4
+"ID005","Placebo",1,"Score 1","S1",2.35,2.35,NA,NA,"BASELINE",1
+"ID005","Placebo",1,"Score 1","S1",2.16,2.35,-0.19,-8.085106383,"WEEK 24",2
+"ID005","Placebo",1,"Score 1","S1",2.25,2.35,-0.1,-4.255319149,"WEEK 36",3
+"ID005","Placebo",1,"Score 1","S1",2.1,2.35,-0.25,-10.63829787,"WEEK 52",4
+"ID005","Placebo",1,"Score 2","S2",2.66,2.66,NA,NA,"BASELINE",1
+"ID005","Placebo",1,"Score 2","S2",2.57,2.66,-0.09,-3.383458647,"WEEK 24",2
+"ID005","Placebo",1,"Score 2","S2",2.56,2.66,-0.1,-3.759398496,"WEEK 36",3
+"ID005","Placebo",1,"Score 2","S2",2.33,2.66,-0.33,-12.40601504,"WEEK 52",4
+"ID006","Experimental 2",3,"Score 1","S1",1.49,1.49,NA,NA,"BASELINE",1
+"ID006","Experimental 2",3,"Score 2","S2",1.74,1.74,NA,NA,"BASELINE",1
+"ID007","Placebo",1,"Score 1","S1",2.57,2.57,NA,NA,"BASELINE",1
+"ID007","Placebo",1,"Score 1","S1",2.68,2.57,0.11,4.280155642,"WEEK 24",2
+"ID007","Placebo",1,"Score 1","S1",2.82,2.57,0.25,9.7276264591,"WEEK 36",3
+"ID007","Placebo",1,"Score 2","S2",3.22,3.22,NA,NA,"BASELINE",1
+"ID007","Placebo",1,"Score 2","S2",3.27,3.22,0.05,1.5527950311,"WEEK 24",2
+"ID007","Placebo",1,"Score 2","S2",3.46,3.22,0.24,7.4534161491,"WEEK 36",3
+"ID007","Placebo",1,"Score 2","S2",3.33,3.22,0.11,3.4161490683,"WEEK 52",4
+"ID008","Experimental 2",3,"Score 1","S1",2.81,2.81,NA,NA,"BASELINE",1
+"ID008","Experimental 2",3,"Score 1","S1",2.68,2.81,-0.13,-4.62633452,"WEEK 24",2
+"ID008","Experimental 2",3,"Score 1","S1",2.62,2.81,-0.19,-6.761565836,"WEEK 24",2
+"ID008","Experimental 2",3,"Score 1","S1",2.66,2.81,-0.15,-5.338078292,"WEEK 36",3
+"ID008","Experimental 2",3,"Score 1","S1",2.63,2.81,-0.18,-6.40569395,"WEEK 36",3
+"ID008","Experimental 2",3,"Score 1","S1",2.49,2.81,-0.32,-11.38790036,"WEEK 52",4
+"ID008","Experimental 2",3,"Score 2","S2",3.39,3.39,NA,NA,"BASELINE",1
+"ID008","Experimental 2",3,"Score 2","S2",3.25,3.39,-0.14,-4.12979351,"WEEK 24",2
+"ID008","Experimental 2",3,"Score 2","S2",3.12,3.39,-0.27,-7.96460177,"WEEK 24",2
+"ID008","Experimental 2",3,"Score 2","S2",3.37,3.39,-0.02,-0.589970501,"WEEK 36",3
+"ID008","Experimental 2",3,"Score 2","S2",3.04,3.39,-0.35,-10.32448378,"WEEK 52",4
+"ID008","Experimental 2",3,"Score 2","S2",3.24,3.39,-0.15,-4.424778761,"WEEK 52",4
+"ID009","Experimental 2",3,"Score 1","S1",3.08,3.08,NA,NA,"BASELINE",1
+"ID009","Experimental 2",3,"Score 1","S1",2.94,3.08,-0.14,-4.545454545,"WEEK 24",2
+"ID009","Experimental 2",3,"Score 1","S1",2.75,3.08,-0.33,-10.71428571,"WEEK 36",3
+"ID009","Experimental 2",3,"Score 1","S1",2.64,3.08,-0.44,-14.28571429,"WEEK 52",4
+"ID009","Experimental 2",3,"Score 2","S2",3.79,3.79,NA,NA,"BASELINE",1
+"ID009","Experimental 2",3,"Score 2","S2",3.68,3.79,-0.11,-2.90237467,"WEEK 24",2
+"ID009","Experimental 2",3,"Score 2","S2",3.39,3.79,-0.4,-10.55408971,"WEEK 36",3
+"ID009","Experimental 2",3,"Score 2","S2",3.26,3.79,-0.53,-13.98416887,"WEEK 52",4
+"ID010","Experimental 1",2,"Score 1","S1",2.76,2.76,NA,NA,"BASELINE",1
+"ID010","Experimental 1",2,"Score 1","S1",2.48,2.76,-0.28,-10.14492754,"WEEK 24",2
+"ID010","Experimental 1",2,"Score 1","S1",2.49,2.76,-0.27,-9.782608696,"WEEK 36",3
+"ID010","Experimental 1",2,"Score 1","S1",2.41,2.76,-0.35,-12.68115942,"WEEK 52",4
+"ID010","Experimental 1",2,"Score 2","S2",3.68,3.68,NA,NA,"BASELINE",1
+"ID010","Experimental 1",2,"Score 2","S2",3.29,3.68,-0.39,-10.59782609,"WEEK 24",2
+"ID010","Experimental 1",2,"Score 2","S2",3.23,3.68,-0.45,-12.22826087,"WEEK 52",4
+"ID011","Experimental 1",2,"Score 1","S1",2.88,2.88,NA,NA,"BASELINE",1
+"ID011","Experimental 1",2,"Score 1","S1",2.73,2.88,-0.15,-5.208333333,"WEEK 24",2
+"ID011","Experimental 1",2,"Score 1","S1",2.71,2.88,-0.17,-5.902777778,"WEEK 36",3
+"ID011","Experimental 1",2,"Score 1","S1",2.63,2.88,-0.25,-8.680555556,"WEEK 52",4
+"ID011","Experimental 1",2,"Score 2","S2",3.69,3.69,NA,NA,"BASELINE",1
+"ID011","Experimental 1",2,"Score 2","S2",3.53,3.69,-0.16,-4.33604336,"WEEK 24",2
+"ID011","Experimental 1",2,"Score 2","S2",3.38,3.69,-0.31,-8.401084011,"WEEK 36",3
+"ID012","Experimental 2",3,"Score 1","S1",1.85,1.85,NA,NA,"BASELINE",1
+"ID012","Experimental 2",3,"Score 1","S1",1.87,1.85,0.02,1.0810810811,"WEEK 24",2
+"ID012","Experimental 2",3,"Score 1","S1",1.79,1.85,-0.06,-3.243243243,"WEEK 36",3
+"ID012","Experimental 2",3,"Score 1","S1",1.6,1.85,-0.25,-13.51351351,"WEEK 52",4
+"ID012","Experimental 2",3,"Score 2","S2",2.37,2.37,NA,NA,"BASELINE",1
+"ID012","Experimental 2",3,"Score 2","S2",2.39,2.37,0.02,0.8438818565,"WEEK 24",2
+"ID012","Experimental 2",3,"Score 2","S2",2.01,2.37,-0.36,-15.18987342,"WEEK 52",4
+"ID013","Experimental 1",2,"Score 1","S1",1.7,1.7,NA,NA,"BASELINE",1
+"ID013","Experimental 1",2,"Score 1","S1",1.68,1.7,-0.02,-1.176470588,"WEEK 24",2
+"ID013","Experimental 1",2,"Score 1","S1",1.69,1.7,-0.01,-0.588235294,"WEEK 36",3
+"ID013","Experimental 1",2,"Score 1","S1",1.7,1.7,0,0,"WEEK 52",4
+"ID013","Experimental 1",2,"Score 2","S2",2.29,2.29,NA,NA,"BASELINE",1
+"ID013","Experimental 1",2,"Score 2","S2",2.31,2.29,0.02,0.8733624454,"WEEK 24",2
+"ID013","Experimental 1",2,"Score 2","S2",2.3,2.29,0.01,0.4366812227,"WEEK 36",3
+"ID014","Experimental 1",2,"Score 1","S1",2.02,2.02,NA,NA,"BASELINE",1
+"ID014","Experimental 1",2,"Score 1","S1",1.99,2.02,-0.03,-1.485148515,"WEEK 36",3
+"ID014","Experimental 1",2,"Score 1","S1",1.95,2.02,-0.07,-3.465346535,"WEEK 52",4
+"ID014","Experimental 1",2,"Score 2","S2",2.51,2.51,NA,NA,"BASELINE",1
+"ID014","Experimental 1",2,"Score 2","S2",2.54,2.51,0.03,1.1952191235,"WEEK 36",3
+"ID014","Experimental 1",2,"Score 2","S2",2.42,2.51,-0.09,-3.585657371,"WEEK 52",4
+"ID015","Experimental 1",2,"Score 1","S1",1.3,1.3,NA,NA,"BASELINE",1
+"ID015","Experimental 1",2,"Score 1","S1",1.12,1.3,-0.18,-13.84615385,"WEEK 24",2
+"ID015","Experimental 1",2,"Score 1","S1",0.77,1.3,-0.53,-40.76923077,"WEEK 36",3
+"ID015","Experimental 1",2,"Score 1","S1",0.69,1.3,-0.61,-46.92307692,"WEEK 52",4
+"ID015","Experimental 1",2,"Score 2","S2",1.36,1.36,NA,NA,"BASELINE",1
+"ID015","Experimental 1",2,"Score 2","S2",1.18,1.36,-0.18,-13.23529412,"WEEK 24",2
+"ID015","Experimental 1",2,"Score 2","S2",0.78,1.36,-0.58,-42.64705882,"WEEK 36",3
+"ID015","Experimental 1",2,"Score 2","S2",0.76,1.36,-0.6,-44.11764706,"WEEK 52",4
+"ID016","Experimental 1",2,"Score 1","S1",2.62,2.62,NA,NA,"BASELINE",1
+"ID016","Experimental 1",2,"Score 1","S1",3,2.62,0.38,14.503816794,"WEEK 24",2
+"ID016","Experimental 1",2,"Score 1","S1",2.97,2.62,0.35,13.358778626,"WEEK 36",3
+"ID016","Experimental 1",2,"Score 1","S1",2.96,2.62,0.34,12.977099237,"WEEK 36",3
+"ID016","Experimental 1",2,"Score 1","S1",2.54,2.62,-0.08,-3.053435115,"WEEK 52",4
+"ID016","Experimental 1",2,"Score 2","S2",3.1,3.1,NA,NA,"BASELINE",1
+"ID016","Experimental 1",2,"Score 2","S2",3.53,3.1,0.43,13.870967742,"WEEK 24",2
+"ID016","Experimental 1",2,"Score 2","S2",3.67,3.1,0.57,18.387096774,"WEEK 36",3
+"ID016","Experimental 1",2,"Score 2","S2",3.16,3.1,0.06,1.935483871,"WEEK 52",4
+"ID017","Experimental 2",3,"Score 1","S1",2.15,2.15,NA,NA,"BASELINE",1
+"ID017","Experimental 2",3,"Score 1","S1",1.91,2.15,-0.24,-11.1627907,"WEEK 24",2
+"ID017","Experimental 2",3,"Score 1","S1",1.99,2.15,-0.16,-7.441860465,"WEEK 36",3
+"ID017","Experimental 2",3,"Score 1","S1",1.88,2.15,-0.27,-12.55813953,"WEEK 52",4
+"ID017","Experimental 2",3,"Score 2","S2",2.6,2.6,NA,NA,"BASELINE",1
+"ID017","Experimental 2",3,"Score 2","S2",2.46,2.6,-0.14,-5.384615385,"WEEK 24",2
+"ID017","Experimental 2",3,"Score 2","S2",2.4,2.6,-0.2,-7.692307692,"WEEK 52",4
+"ID018","Experimental 2",3,"Score 1","S1",3.26,3.26,NA,NA,"BASELINE",1
+"ID018","Experimental 2",3,"Score 2","S2",4.28,4.28,NA,NA,"BASELINE",1
+"ID019","Placebo",1,"Score 1","S1",1.91,1.91,NA,NA,"BASELINE",1
+"ID019","Placebo",1,"Score 1","S1",1.82,1.91,-0.09,-4.712041885,"WEEK 24",2
+"ID019","Placebo",1,"Score 1","S1",1.55,1.91,-0.36,-18.84816754,"WEEK 52",4
+"ID019","Placebo",1,"Score 1","S1",1.59,1.91,-0.32,-16.7539267,"WEEK 52",4
+"ID019","Placebo",1,"Score 2","S2",2.1,2.1,NA,NA,"BASELINE",1
+"ID019","Placebo",1,"Score 2","S2",2.07,2.1,-0.03,-1.428571429,"WEEK 24",2
+"ID019","Placebo",1,"Score 2","S2",2.03,2.1,-0.07,-3.333333333,"WEEK 36",3
+"ID019","Placebo",1,"Score 2","S2",1.9,2.1,-0.2,-9.523809524,"WEEK 52",4
+"ID019","Placebo",1,"Score 2","S2",1.78,2.1,-0.32,-15.23809524,"WEEK 52",4
+"ID020","Placebo",1,"Score 1","S1",1.92,1.92,NA,NA,"BASELINE",1
+"ID020","Placebo",1,"Score 1","S1",1.9,1.92,-0.02,-1.041666667,"WEEK 24",2
+"ID020","Placebo",1,"Score 1","S1",1.88,1.92,-0.04,-2.083333333,"WEEK 36",3
+"ID020","Placebo",1,"Score 1","S1",1.86,1.92,-0.06,-3.125,"WEEK 52",4
+"ID020","Placebo",1,"Score 2","S2",2.34,2.34,NA,NA,"BASELINE",1
+"ID020","Placebo",1,"Score 2","S2",2.36,2.34,0.02,0.8547008547,"WEEK 24",2
+"ID020","Placebo",1,"Score 2","S2",2.3,2.34,-0.04,-1.709401709,"WEEK 36",3
+"ID020","Placebo",1,"Score 2","S2",2.2,2.34,-0.14,-5.982905983,"WEEK 52",4
+"ID021","Experimental 1",2,"Score 1","S1",0.96,0.96,NA,NA,"BASELINE",1
+"ID021","Experimental 1",2,"Score 1","S1",0.86,0.96,-0.1,-10.41666667,"WEEK 24",2
+"ID021","Experimental 1",2,"Score 1","S1",0.81,0.96,-0.15,-15.625,"WEEK 36",3
+"ID021","Experimental 1",2,"Score 2","S2",1.08,1.08,NA,NA,"BASELINE",1
+"ID021","Experimental 1",2,"Score 2","S2",0.95,1.08,-0.13,-12.03703704,"WEEK 24",2
+"ID021","Experimental 1",2,"Score 2","S2",0.93,1.08,-0.15,-13.88888889,"WEEK 36",3
+"ID022","Placebo",1,"Score 1","S1",2.63,2.63,NA,NA,"BASELINE",1
+"ID022","Placebo",1,"Score 1","S1",2.53,2.63,-0.1,-3.802281369,"WEEK 24",2
+"ID022","Placebo",1,"Score 1","S1",2.46,2.63,-0.17,-6.463878327,"WEEK 36",3
+"ID022","Placebo",1,"Score 1","S1",2.51,2.63,-0.12,-4.562737643,"WEEK 52",4
+"ID022","Placebo",1,"Score 2","S2",3.19,3.19,NA,NA,"BASELINE",1
+"ID022","Placebo",1,"Score 2","S2",3.06,3.19,-0.13,-4.07523511,"WEEK 24",2
+"ID022","Placebo",1,"Score 2","S2",3.03,3.19,-0.16,-5.015673981,"WEEK 36",3
+"ID023","Placebo",1,"Score 1","S1",2.05,2.05,NA,NA,"BASELINE",1
+"ID023","Placebo",1,"Score 1","S1",1.95,2.05,-0.1,-4.87804878,"WEEK 24",2
+"ID023","Placebo",1,"Score 1","S1",1.97,2.05,-0.08,-3.902439024,"WEEK 52",4
+"ID023","Placebo",1,"Score 2","S2",2.37,2.37,NA,NA,"BASELINE",1
+"ID023","Placebo",1,"Score 2","S2",2.31,2.37,-0.06,-2.53164557,"WEEK 24",2
+"ID023","Placebo",1,"Score 2","S2",2.2,2.37,-0.17,-7.172995781,"WEEK 52",4
+"ID024","Placebo",1,"Score 1","S1",2.58,2.58,NA,NA,"BASELINE",1
+"ID024","Placebo",1,"Score 1","S1",2.42,2.58,-0.16,-6.201550388,"WEEK 24",2
+"ID024","Placebo",1,"Score 1","S1",2.43,2.58,-0.15,-5.813953488,"WEEK 24",2
+"ID024","Placebo",1,"Score 1","S1",2.22,2.58,-0.36,-13.95348837,"WEEK 36",3
+"ID024","Placebo",1,"Score 1","S1",2.16,2.58,-0.42,-16.27906977,"WEEK 52",4
+"ID024","Placebo",1,"Score 1","S1",2.1,2.58,-0.48,-18.60465116,"WEEK 52",4
+"ID024","Placebo",1,"Score 2","S2",3.16,3.16,NA,NA,"BASELINE",1
+"ID024","Placebo",1,"Score 2","S2",2.92,3.16,-0.24,-7.594936709,"WEEK 24",2
+"ID024","Placebo",1,"Score 2","S2",2.95,3.16,-0.21,-6.64556962,"WEEK 24",2
+"ID024","Placebo",1,"Score 2","S2",2.72,3.16,-0.44,-13.92405063,"WEEK 36",3
+"ID024","Placebo",1,"Score 2","S2",2.47,3.16,-0.69,-21.83544304,"WEEK 52",4
+"ID024","Placebo",1,"Score 2","S2",2.63,3.16,-0.53,-16.7721519,"WEEK 52",4
+"ID025","Experimental 1",2,"Score 1","S1",1.21,1.21,NA,NA,"BASELINE",1
+"ID025","Experimental 1",2,"Score 1","S1",0.97,1.21,-0.24,-19.83471074,"WEEK 24",2
+"ID025","Experimental 1",2,"Score 2","S2",1.69,1.69,NA,NA,"BASELINE",1
+"ID025","Experimental 1",2,"Score 2","S2",1.34,1.69,-0.35,-20.71005917,"WEEK 24",2
+"ID026","Placebo",1,"Score 1","S1",1.83,1.83,NA,NA,"BASELINE",1
+"ID026","Placebo",1,"Score 1","S1",1.66,1.83,-0.17,-9.289617486,"WEEK 24",2
+"ID026","Placebo",1,"Score 1","S1",1.55,1.83,-0.28,-15.30054645,"WEEK 36",3
+"ID026","Placebo",1,"Score 1","S1",1.64,1.83,-0.19,-10.38251366,"WEEK 52",4
+"ID026","Placebo",1,"Score 2","S2",2.57,2.57,NA,NA,"BASELINE",1
+"ID026","Placebo",1,"Score 2","S2",2.34,2.57,-0.23,-8.949416342,"WEEK 24",2
+"ID026","Placebo",1,"Score 2","S2",2.24,2.57,-0.33,-12.84046693,"WEEK 36",3
+"ID026","Placebo",1,"Score 2","S2",2.23,2.57,-0.34,-13.22957198,"WEEK 52",4
+"ID027","Experimental 1",2,"Score 1","S1",2.07,2.07,NA,NA,"BASELINE",1
+"ID027","Experimental 1",2,"Score 2","S2",2.28,2.28,NA,NA,"BASELINE",1
+"ID028","Placebo",1,"Score 1","S1",2.56,2.56,NA,NA,"BASELINE",1
+"ID028","Placebo",1,"Score 1","S1",2.36,2.56,-0.2,-7.8125,"WEEK 24",2
+"ID028","Placebo",1,"Score 1","S1",2.44,2.56,-0.12,-4.6875,"WEEK 24",2
+"ID028","Placebo",1,"Score 1","S1",2.33,2.56,-0.23,-8.984375,"WEEK 52",4
+"ID028","Placebo",1,"Score 2","S2",3.02,3.02,NA,NA,"BASELINE",1
+"ID028","Placebo",1,"Score 2","S2",2.79,3.02,-0.23,-7.61589404,"WEEK 24",2
+"ID028","Placebo",1,"Score 2","S2",2.84,3.02,-0.18,-5.960264901,"WEEK 24",2
+"ID028","Placebo",1,"Score 2","S2",2.87,3.02,-0.15,-4.966887417,"WEEK 36",3
+"ID028","Placebo",1,"Score 2","S2",2.74,3.02,-0.28,-9.271523179,"WEEK 52",4
+"ID029","Experimental 1",2,"Score 1","S1",2.6,2.6,NA,NA,"BASELINE",1
+"ID029","Experimental 1",2,"Score 1","S1",2.29,2.6,-0.31,-11.92307692,"WEEK 24",2
+"ID029","Experimental 1",2,"Score 1","S1",2.3,2.6,-0.3,-11.53846154,"WEEK 36",3
+"ID029","Experimental 1",2,"Score 1","S1",2.4,2.6,-0.2,-7.692307692,"WEEK 52",4
+"ID029","Experimental 1",2,"Score 2","S2",3.25,3.25,NA,NA,"BASELINE",1
+"ID029","Experimental 1",2,"Score 2","S2",2.89,3.25,-0.36,-11.07692308,"WEEK 24",2
+"ID029","Experimental 1",2,"Score 2","S2",2.97,3.25,-0.28,-8.615384615,"WEEK 36",3
+"ID029","Experimental 1",2,"Score 2","S2",3.04,3.25,-0.21,-6.461538462,"WEEK 52",4
+"ID030","Experimental 1",2,"Score 1","S1",2.3,2.3,NA,NA,"BASELINE",1
+"ID030","Experimental 1",2,"Score 1","S1",2.3,2.3,0,0,"WEEK 24",2
+"ID030","Experimental 1",2,"Score 1","S1",2.16,2.3,-0.14,-6.086956522,"WEEK 36",3
+"ID030","Experimental 1",2,"Score 1","S1",2.05,2.3,-0.25,-10.86956522,"WEEK 52",4
+"ID030","Experimental 1",2,"Score 2","S2",3.11,3.11,NA,NA,"BASELINE",1
+"ID030","Experimental 1",2,"Score 2","S2",3.24,3.11,0.13,4.1800643087,"WEEK 24",2
+"ID030","Experimental 1",2,"Score 2","S2",2.94,3.11,-0.17,-5.466237942,"WEEK 36",3
+"ID030","Experimental 1",2,"Score 2","S2",3.08,3.11,-0.03,-0.964630225,"WEEK 52",4
+"ID031","Experimental 2",3,"Score 1","S1",1.13,1.13,NA,NA,"BASELINE",1
+"ID031","Experimental 2",3,"Score 1","S1",1.15,1.13,0.02,1.7699115044,"WEEK 24",2
+"ID031","Experimental 2",3,"Score 1","S1",1.02,1.13,-0.11,-9.734513274,"WEEK 36",3
+"ID031","Experimental 2",3,"Score 1","S1",1.03,1.13,-0.1,-8.849557522,"WEEK 36",3
+"ID031","Experimental 2",3,"Score 2","S2",1.21,1.21,NA,NA,"BASELINE",1
+"ID031","Experimental 2",3,"Score 2","S2",1.27,1.21,0.06,4.958677686,"WEEK 24",2
+"ID031","Experimental 2",3,"Score 2","S2",1.06,1.21,-0.15,-12.39669421,"WEEK 36",3
+"ID031","Experimental 2",3,"Score 2","S2",1.12,1.21,-0.09,-7.438016529,"WEEK 36",3
+"ID032","Experimental 1",2,"Score 1","S1",2.29,2.29,NA,NA,"BASELINE",1
+"ID032","Experimental 1",2,"Score 1","S1",2.17,2.29,-0.12,-5.240174672,"WEEK 24",2
+"ID032","Experimental 1",2,"Score 2","S2",2.77,2.77,NA,NA,"BASELINE",1
+"ID032","Experimental 1",2,"Score 2","S2",2.73,2.77,-0.04,-1.444043321,"WEEK 24",2
+"ID033","Experimental 1",2,"Score 1","S1",1.92,1.92,NA,NA,"BASELINE",1
+"ID033","Experimental 1",2,"Score 1","S1",2.01,1.92,0.09,4.6875,"WEEK 24",2
+"ID033","Experimental 1",2,"Score 1","S1",2.11,1.92,0.19,9.8958333333,"WEEK 36",3
+"ID033","Experimental 1",2,"Score 1","S1",2.16,1.92,0.24,12.5,"WEEK 52",4
+"ID033","Experimental 1",2,"Score 2","S2",2.43,2.43,NA,NA,"BASELINE",1
+"ID033","Experimental 1",2,"Score 2","S2",2.65,2.43,0.22,9.0534979424,"WEEK 24",2
+"ID033","Experimental 1",2,"Score 2","S2",2.73,2.43,0.3,12.345679012,"WEEK 36",3
+"ID033","Experimental 1",2,"Score 2","S2",2.72,2.43,0.29,11.934156379,"WEEK 52",4
+"ID034","Experimental 2",3,"Score 1","S1",1.69,1.69,NA,NA,"BASELINE",1
+"ID034","Experimental 2",3,"Score 2","S2",2.1,2.1,NA,NA,"BASELINE",1
+"ID035","Experimental 2",3,"Score 1","S1",2.34,2.34,NA,NA,"BASELINE",1
+"ID035","Experimental 2",3,"Score 1","S1",2.26,2.34,-0.08,-3.418803419,"WEEK 24",2
+"ID035","Experimental 2",3,"Score 1","S1",2.24,2.34,-0.1,-4.273504274,"WEEK 36",3
+"ID035","Experimental 2",3,"Score 1","S1",1.84,2.34,-0.5,-21.36752137,"WEEK 52",4
+"ID035","Experimental 2",3,"Score 1","S1",1.83,2.34,-0.51,-21.79487179,"WEEK 52",4
+"ID035","Experimental 2",3,"Score 2","S2",2.87,2.87,NA,NA,"BASELINE",1
+"ID035","Experimental 2",3,"Score 2","S2",2.79,2.87,-0.08,-2.787456446,"WEEK 24",2
+"ID035","Experimental 2",3,"Score 2","S2",2.82,2.87,-0.05,-1.742160279,"WEEK 36",3
+"ID035","Experimental 2",3,"Score 2","S2",2.19,2.87,-0.68,-23.69337979,"WEEK 52",4
+"ID035","Experimental 2",3,"Score 2","S2",2.15,2.87,-0.72,-25.08710801,"WEEK 52",4
+"ID036","Experimental 1",2,"Score 1","S1",2.61,2.61,NA,NA,"BASELINE",1
+"ID036","Experimental 1",2,"Score 1","S1",2.64,2.61,0.03,1.1494252874,"WEEK 24",2
+"ID036","Experimental 1",2,"Score 1","S1",2.49,2.61,-0.12,-4.597701149,"WEEK 36",3
+"ID036","Experimental 1",2,"Score 1","S1",2.44,2.61,-0.17,-6.513409962,"WEEK 52",4
+"ID036","Experimental 1",2,"Score 2","S2",3.37,3.37,NA,NA,"BASELINE",1
+"ID036","Experimental 1",2,"Score 2","S2",3.47,3.37,0.1,2.9673590504,"WEEK 24",2
+"ID036","Experimental 1",2,"Score 2","S2",3.14,3.37,-0.23,-6.824925816,"WEEK 36",3
+"ID036","Experimental 1",2,"Score 2","S2",3.18,3.37,-0.19,-5.637982196,"WEEK 52",4
+"ID037","Experimental 2",3,"Score 1","S1",1.28,1.28,NA,NA,"BASELINE",1
+"ID037","Experimental 2",3,"Score 2","S2",1.35,1.35,NA,NA,"BASELINE",1
+"ID038","Placebo",1,"Score 1","S1",2.42,2.42,NA,NA,"BASELINE",1
+"ID038","Placebo",1,"Score 1","S1",2.62,2.42,0.2,8.2644628099,"WEEK 24",2
+"ID038","Placebo",1,"Score 1","S1",2.56,2.42,0.14,5.7851239669,"WEEK 36",3
+"ID038","Placebo",1,"Score 2","S2",2.88,2.88,NA,NA,"BASELINE",1
+"ID038","Placebo",1,"Score 2","S2",3.11,2.88,0.23,7.9861111111,"WEEK 24",2
+"ID038","Placebo",1,"Score 2","S2",3.06,2.88,0.18,6.25,"WEEK 36",3
+"ID038","Placebo",1,"Score 2","S2",3.21,2.88,0.33,11.458333333,"WEEK 52",4
+"ID039","Experimental 1",2,"Score 1","S1",1.98,1.98,NA,NA,"BASELINE",1
+"ID039","Experimental 1",2,"Score 1","S1",1.95,1.98,-0.03,-1.515151515,"WEEK 24",2
+"ID039","Experimental 1",2,"Score 1","S1",1.93,1.98,-0.05,-2.525252525,"WEEK 52",4
+"ID039","Experimental 1",2,"Score 2","S2",2.46,2.46,NA,NA,"BASELINE",1
+"ID039","Experimental 1",2,"Score 2","S2",2.44,2.46,-0.02,-0.81300813,"WEEK 24",2
+"ID039","Experimental 1",2,"Score 2","S2",2.45,2.46,-0.01,-0.406504065,"WEEK 36",3
+"ID039","Experimental 1",2,"Score 2","S2",2.34,2.46,-0.12,-4.87804878,"WEEK 52",4
+"ID040","Experimental 2",3,"Score 1","S1",2.01,2.01,NA,NA,"BASELINE",1
+"ID040","Experimental 2",3,"Score 1","S1",1.57,2.01,-0.44,-21.89054726,"WEEK 24",2
+"ID040","Experimental 2",3,"Score 1","S1",1.81,2.01,-0.2,-9.950248756,"WEEK 36",3
+"ID040","Experimental 2",3,"Score 1","S1",1.8,2.01,-0.21,-10.44776119,"WEEK 52",4
+"ID040","Experimental 2",3,"Score 2","S2",2.77,2.77,NA,NA,"BASELINE",1
+"ID040","Experimental 2",3,"Score 2","S2",2.2,2.77,-0.57,-20.57761733,"WEEK 24",2
+"ID040","Experimental 2",3,"Score 2","S2",2.57,2.77,-0.2,-7.220216606,"WEEK 36",3
+"ID040","Experimental 2",3,"Score 2","S2",2.48,2.77,-0.29,-10.46931408,"WEEK 52",4
+"ID041","Experimental 1",2,"Score 1","S1",1.59,1.59,NA,NA,"BASELINE",1
+"ID041","Experimental 1",2,"Score 1","S1",1.47,1.59,-0.12,-7.547169811,"WEEK 24",2
+"ID041","Experimental 1",2,"Score 2","S2",1.8,1.8,NA,NA,"BASELINE",1
+"ID041","Experimental 1",2,"Score 2","S2",1.7,1.8,-0.1,-5.555555556,"WEEK 24",2
+"ID042","Placebo",1,"Score 1","S1",1.18,1.18,NA,NA,"BASELINE",1
+"ID042","Placebo",1,"Score 1","S1",1.21,1.18,0.03,2.5423728814,"WEEK 24",2
+"ID042","Placebo",1,"Score 1","S1",1.26,1.18,0.08,6.7796610169,"WEEK 36",3
+"ID042","Placebo",1,"Score 1","S1",1.35,1.18,0.17,14.406779661,"WEEK 52",4
+"ID042","Placebo",1,"Score 2","S2",1.44,1.44,NA,NA,"BASELINE",1
+"ID042","Placebo",1,"Score 2","S2",1.52,1.44,0.08,5.5555555556,"WEEK 24",2
+"ID042","Placebo",1,"Score 2","S2",1.47,1.44,0.03,2.0833333333,"WEEK 36",3
+"ID042","Placebo",1,"Score 2","S2",1.57,1.44,0.13,9.0277777778,"WEEK 52",4
+"ID043","Experimental 2",3,"Score 1","S1",1.35,1.35,NA,NA,"BASELINE",1
+"ID043","Experimental 2",3,"Score 1","S1",1.34,1.35,-0.01,-0.740740741,"WEEK 24",2
+"ID043","Experimental 2",3,"Score 1","S1",1.1,1.35,-0.25,-18.51851852,"WEEK 52",4
+"ID043","Experimental 2",3,"Score 1","S1",1.5,1.35,0.15,11.111111111,"WEEK 52",4
+"ID043","Experimental 2",3,"Score 2","S2",1.63,1.63,NA,NA,"BASELINE",1
+"ID043","Experimental 2",3,"Score 2","S2",1.81,1.63,0.18,11.042944785,"WEEK 24",2
+"ID043","Experimental 2",3,"Score 2","S2",1.7,1.63,0.07,4.2944785276,"WEEK 52",4
+"ID044","Experimental 2",3,"Score 1","S1",2.12,2.12,NA,NA,"BASELINE",1
+"ID044","Experimental 2",3,"Score 1","S1",2,2.12,-0.12,-5.660377358,"WEEK 24",2
+"ID044","Experimental 2",3,"Score 1","S1",1.94,2.12,-0.18,-8.490566038,"WEEK 36",3
+"ID044","Experimental 2",3,"Score 1","S1",2.07,2.12,-0.05,-2.358490566,"WEEK 52",4
+"ID044","Experimental 2",3,"Score 2","S2",2.56,2.56,NA,NA,"BASELINE",1
+"ID044","Experimental 2",3,"Score 2","S2",2.34,2.56,-0.22,-8.59375,"WEEK 24",2
+"ID044","Experimental 2",3,"Score 2","S2",2.41,2.56,-0.15,-5.859375,"WEEK 52",4
+"ID045","Experimental 2",3,"Score 1","S1",2.58,2.58,NA,NA,"BASELINE",1
+"ID045","Experimental 2",3,"Score 1","S1",2.69,2.58,0.11,4.2635658915,"WEEK 24",2
+"ID045","Experimental 2",3,"Score 1","S1",2.71,2.58,0.13,5.0387596899,"WEEK 36",3
+"ID045","Experimental 2",3,"Score 1","S1",2.56,2.58,-0.02,-0.775193798,"WEEK 52",4
+"ID045","Experimental 2",3,"Score 1","S1",2.67,2.58,0.09,3.488372093,"WEEK 52",4
+"ID045","Experimental 2",3,"Score 2","S2",3.32,3.32,NA,NA,"BASELINE",1
+"ID045","Experimental 2",3,"Score 2","S2",3.36,3.32,0.04,1.2048192771,"WEEK 24",2
+"ID045","Experimental 2",3,"Score 2","S2",3.44,3.32,0.12,3.6144578313,"WEEK 36",3
+"ID045","Experimental 2",3,"Score 2","S2",3.32,3.32,0,0,"WEEK 52",4
+"ID045","Experimental 2",3,"Score 2","S2",3.3,3.32,-0.02,-0.602409639,"WEEK 52",4
+"ID046","Placebo",1,"Score 1","S1",1.87,1.87,NA,NA,"BASELINE",1
+"ID046","Placebo",1,"Score 2","S2",2.23,2.23,NA,NA,"BASELINE",1
+"ID047","Experimental 2",3,"Score 1","S1",3.01,3.01,NA,NA,"BASELINE",1
+"ID047","Experimental 2",3,"Score 1","S1",1.87,3.01,-1.14,-37.87375415,"WEEK 24",2
+"ID047","Experimental 2",3,"Score 1","S1",2.8,3.01,-0.21,-6.976744186,"WEEK 52",4
+"ID047","Experimental 2",3,"Score 2","S2",3.63,3.63,NA,NA,"BASELINE",1
+"ID047","Experimental 2",3,"Score 2","S2",3.71,3.63,0.08,2.2038567493,"WEEK 24",2
+"ID047","Experimental 2",3,"Score 2","S2",3.44,3.63,-0.19,-5.23415978,"WEEK 52",4
+"ID048","Placebo",1,"Score 1","S1",1.75,1.75,NA,NA,"BASELINE",1
+"ID048","Placebo",1,"Score 1","S1",1.64,1.75,-0.11,-6.285714286,"WEEK 24",2
+"ID048","Placebo",1,"Score 1","S1",1.55,1.75,-0.2,-11.42857143,"WEEK 36",3
+"ID048","Placebo",1,"Score 1","S1",1.61,1.75,-0.14,-8,"WEEK 52",4
+"ID048","Placebo",1,"Score 2","S2",1.97,1.97,NA,NA,"BASELINE",1
+"ID048","Placebo",1,"Score 2","S2",1.97,1.97,0,0,"WEEK 24",2
+"ID048","Placebo",1,"Score 2","S2",1.8,1.97,-0.17,-8.629441624,"WEEK 36",3
+"ID048","Placebo",1,"Score 2","S2",1.9,1.97,-0.07,-3.553299492,"WEEK 52",4
+"ID049","Experimental 2",3,"Score 1","S1",1.64,1.64,NA,NA,"BASELINE",1
+"ID049","Experimental 2",3,"Score 1","S1",1.34,1.64,-0.3,-18.29268293,"WEEK 24",2
+"ID049","Experimental 2",3,"Score 1","S1",1.24,1.64,-0.4,-24.3902439,"WEEK 36",3
+"ID049","Experimental 2",3,"Score 1","S1",1.16,1.64,-0.48,-29.26829268,"WEEK 52",4
+"ID049","Experimental 2",3,"Score 2","S2",1.93,1.93,NA,NA,"BASELINE",1
+"ID049","Experimental 2",3,"Score 2","S2",1.74,1.93,-0.19,-9.844559585,"WEEK 24",2
+"ID049","Experimental 2",3,"Score 2","S2",1.63,1.93,-0.3,-15.54404145,"WEEK 36",3
+"ID049","Experimental 2",3,"Score 2","S2",1.44,1.93,-0.49,-25.38860104,"WEEK 52",4
+"ID050","Experimental 2",3,"Score 1","S1",2.2,2.2,NA,NA,"BASELINE",1
+"ID050","Experimental 2",3,"Score 1","S1",2.03,2.2,-0.17,-7.727272727,"WEEK 24",2
+"ID050","Experimental 2",3,"Score 1","S1",2.06,2.2,-0.14,-6.363636364,"WEEK 36",3
+"ID050","Experimental 2",3,"Score 2","S2",3.07,3.07,NA,NA,"BASELINE",1
+"ID050","Experimental 2",3,"Score 2","S2",2.95,3.07,-0.12,-3.908794788,"WEEK 24",2
+"ID050","Experimental 2",3,"Score 2","S2",2.98,3.07,-0.09,-2.931596091,"WEEK 36",3
+"ID050","Experimental 2",3,"Score 2","S2",2.76,3.07,-0.31,-10.09771987,"WEEK 52",4
+"ID051","Placebo",1,"Score 1","S1",1.69,1.69,NA,NA,"BASELINE",1
+"ID051","Placebo",1,"Score 1","S1",1.47,1.69,-0.22,-13.01775148,"WEEK 36",3
+"ID051","Placebo",1,"Score 1","S1",1.51,1.69,-0.18,-10.65088757,"WEEK 36",3
+"ID051","Placebo",1,"Score 1","S1",1.39,1.69,-0.3,-17.75147929,"WEEK 52",4
+"ID051","Placebo",1,"Score 2","S2",1.96,1.96,NA,NA,"BASELINE",1
+"ID051","Placebo",1,"Score 2","S2",1.69,1.96,-0.27,-13.7755102,"WEEK 36",3
+"ID051","Placebo",1,"Score 2","S2",1.77,1.96,-0.19,-9.693877551,"WEEK 36",3
+"ID051","Placebo",1,"Score 2","S2",1.59,1.96,-0.37,-18.87755102,"WEEK 52",4
+"ID052","Experimental 2",3,"Score 1","S1",2.78,2.78,NA,NA,"BASELINE",1
+"ID052","Experimental 2",3,"Score 2","S2",3.23,3.23,NA,NA,"BASELINE",1
+"ID053","Experimental 2",3,"Score 1","S1",1.59,1.59,NA,NA,"BASELINE",1
+"ID053","Experimental 2",3,"Score 1","S1",1.6,1.59,0.01,0.6289308176,"WEEK 24",2
+"ID053","Experimental 2",3,"Score 1","S1",1.45,1.59,-0.14,-8.805031447,"WEEK 36",3
+"ID053","Experimental 2",3,"Score 1","S1",1.44,1.59,-0.15,-9.433962264,"WEEK 52",4
+"ID053","Experimental 2",3,"Score 1","S1",1.49,1.59,-0.1,-6.289308176,"WEEK 52",4
+"ID053","Experimental 2",3,"Score 2","S2",2.02,2.02,NA,NA,"BASELINE",1
+"ID053","Experimental 2",3,"Score 2","S2",2.18,2.02,0.16,7.9207920792,"WEEK 24",2
+"ID053","Experimental 2",3,"Score 2","S2",1.86,2.02,-0.16,-7.920792079,"WEEK 36",3
+"ID053","Experimental 2",3,"Score 2","S2",1.84,2.02,-0.18,-8.910891089,"WEEK 52",4
+"ID054","Experimental 1",2,"Score 1","S1",2.31,2.31,NA,NA,"BASELINE",1
+"ID054","Experimental 1",2,"Score 1","S1",2.29,2.31,-0.02,-0.865800866,"WEEK 24",2
+"ID054","Experimental 1",2,"Score 1","S1",2.32,2.31,0.01,0.4329004329,"WEEK 36",3
+"ID054","Experimental 1",2,"Score 2","S2",2.99,2.99,NA,NA,"BASELINE",1
+"ID054","Experimental 1",2,"Score 2","S2",2.92,2.99,-0.07,-2.341137124,"WEEK 24",2
+"ID054","Experimental 1",2,"Score 2","S2",2.86,2.99,-0.13,-4.347826087,"WEEK 36",3
+"ID054","Experimental 1",2,"Score 2","S2",2.94,2.99,-0.05,-1.672240803,"WEEK 52",4
+"ID055","Placebo",1,"Score 1","S1",1.42,1.42,NA,NA,"BASELINE",1
+"ID055","Placebo",1,"Score 1","S1",1.4,1.42,-0.02,-1.408450704,"WEEK 24",2
+"ID055","Placebo",1,"Score 1","S1",1.41,1.42,-0.01,-0.704225352,"WEEK 24",2
+"ID055","Placebo",1,"Score 1","S1",1.31,1.42,-0.11,-7.746478873,"WEEK 52",4
+"ID055","Placebo",1,"Score 2","S2",1.59,1.59,NA,NA,"BASELINE",1
+"ID055","Placebo",1,"Score 2","S2",1.53,1.59,-0.06,-3.773584906,"WEEK 24",2
+"ID055","Placebo",1,"Score 2","S2",1.54,1.59,-0.05,-3.144654088,"WEEK 24",2
+"ID055","Placebo",1,"Score 2","S2",1.62,1.59,0.03,1.8867924528,"WEEK 36",3
+"ID055","Placebo",1,"Score 2","S2",1.5,1.59,-0.09,-5.660377358,"WEEK 52",4
+"ID056","Placebo",1,"Score 1","S1",2.45,2.45,NA,NA,"BASELINE",1
+"ID056","Placebo",1,"Score 2","S2",3.37,3.37,NA,NA,"BASELINE",1
+"ID057","Experimental 2",3,"Score 1","S1",1.99,1.99,NA,NA,"BASELINE",1
+"ID057","Experimental 2",3,"Score 1","S1",2,1.99,0.01,0.5025125628,"WEEK 24",2
+"ID057","Experimental 2",3,"Score 1","S1",2.03,1.99,0.04,2.0100502513,"WEEK 36",3
+"ID057","Experimental 2",3,"Score 1","S1",1.95,1.99,-0.04,-2.010050251,"WEEK 52",4
+"ID057","Experimental 2",3,"Score 2","S2",2.55,2.55,NA,NA,"BASELINE",1
+"ID057","Experimental 2",3,"Score 2","S2",2.48,2.55,-0.07,-2.745098039,"WEEK 24",2
+"ID057","Experimental 2",3,"Score 2","S2",2.54,2.55,-0.01,-0.392156863,"WEEK 36",3
+"ID057","Experimental 2",3,"Score 2","S2",2.47,2.55,-0.08,-3.137254902,"WEEK 52",4
+"ID058","Experimental 2",3,"Score 1","S1",1.67,1.67,NA,NA,"BASELINE",1
+"ID058","Experimental 2",3,"Score 2","S2",2.1,2.1,NA,NA,"BASELINE",1
+"ID059","Experimental 2",3,"Score 1","S1",1.88,1.88,NA,NA,"BASELINE",1
+"ID059","Experimental 2",3,"Score 1","S1",1.92,1.88,0.04,2.1276595745,"WEEK 24",2
+"ID059","Experimental 2",3,"Score 1","S1",1.7,1.88,-0.18,-9.574468085,"WEEK 36",3
+"ID059","Experimental 2",3,"Score 1","S1",1.64,1.88,-0.24,-12.76595745,"WEEK 52",4
+"ID059","Experimental 2",3,"Score 2","S2",2.4,2.4,NA,NA,"BASELINE",1
+"ID059","Experimental 2",3,"Score 2","S2",2.36,2.4,-0.04,-1.666666667,"WEEK 24",2
+"ID059","Experimental 2",3,"Score 2","S2",2.15,2.4,-0.25,-10.41666667,"WEEK 36",3
+"ID059","Experimental 2",3,"Score 2","S2",2.05,2.4,-0.35,-14.58333333,"WEEK 52",4
+"ID060","Placebo",1,"Score 1","S1",2.51,2.51,NA,NA,"BASELINE",1
+"ID060","Placebo",1,"Score 1","S1",2.44,2.51,-0.07,-2.788844622,"WEEK 24",2
+"ID060","Placebo",1,"Score 1","S1",2.45,2.51,-0.06,-2.390438247,"WEEK 36",3
+"ID060","Placebo",1,"Score 1","S1",2.43,2.51,-0.08,-3.187250996,"WEEK 52",4
+"ID060","Placebo",1,"Score 2","S2",3.04,3.04,NA,NA,"BASELINE",1
+"ID060","Placebo",1,"Score 2","S2",2.87,3.04,-0.17,-5.592105263,"WEEK 24",2
+"ID060","Placebo",1,"Score 2","S2",2.96,3.04,-0.08,-2.631578947,"WEEK 36",3
+"ID060","Placebo",1,"Score 2","S2",2.97,3.04,-0.07,-2.302631579,"WEEK 52",4
+"ID061","Placebo",1,"Score 1","S1",2.49,2.49,NA,NA,"BASELINE",1
+"ID061","Placebo",1,"Score 2","S2",2.93,2.93,NA,NA,"BASELINE",1
+"ID062","Placebo",1,"Score 1","S1",2.08,2.08,NA,NA,"BASELINE",1
+"ID062","Placebo",1,"Score 1","S1",1.81,2.08,-0.27,-12.98076923,"WEEK 24",2
+"ID062","Placebo",1,"Score 1","S1",1.84,2.08,-0.24,-11.53846154,"WEEK 36",3
+"ID062","Placebo",1,"Score 2","S2",2.54,2.54,NA,NA,"BASELINE",1
+"ID062","Placebo",1,"Score 2","S2",2.25,2.54,-0.29,-11.41732283,"WEEK 24",2
+"ID062","Placebo",1,"Score 2","S2",2.27,2.54,-0.27,-10.62992126,"WEEK 36",3
+"ID063","Experimental 1",2,"Score 1","S1",2.8,2.8,NA,NA,"BASELINE",1
+"ID063","Experimental 1",2,"Score 1","S1",2.6,2.8,-0.2,-7.142857143,"WEEK 24",2
+"ID063","Experimental 1",2,"Score 1","S1",2.61,2.8,-0.19,-6.785714286,"WEEK 36",3
+"ID063","Experimental 1",2,"Score 1","S1",2.7,2.8,-0.1,-3.571428571,"WEEK 52",4
+"ID063","Experimental 1",2,"Score 2","S2",3.39,3.39,NA,NA,"BASELINE",1
+"ID063","Experimental 1",2,"Score 2","S2",3.1,3.39,-0.29,-8.554572271,"WEEK 24",2
+"ID063","Experimental 1",2,"Score 2","S2",3.25,3.39,-0.14,-4.12979351,"WEEK 36",3
+"ID063","Experimental 1",2,"Score 2","S2",3.29,3.39,-0.1,-2.949852507,"WEEK 52",4
+"ID064","Experimental 1",2,"Score 1","S1",1.01,1.01,NA,NA,"BASELINE",1
+"ID064","Experimental 1",2,"Score 1","S1",0.91,1.01,-0.1,-9.900990099,"WEEK 24",2
+"ID064","Experimental 1",2,"Score 2","S2",1.29,1.29,NA,NA,"BASELINE",1
+"ID064","Experimental 1",2,"Score 2","S2",1.45,1.29,0.16,12.403100775,"WEEK 24",2
+"ID065","Experimental 1",2,"Score 1","S1",2.3,2.3,NA,NA,"BASELINE",1
+"ID065","Experimental 1",2,"Score 1","S1",2.01,2.3,-0.29,-12.60869565,"WEEK 36",3
+"ID065","Experimental 1",2,"Score 1","S1",2.16,2.3,-0.14,-6.086956522,"WEEK 52",4
+"ID065","Experimental 1",2,"Score 2","S2",2.96,2.96,NA,NA,"BASELINE",1
+"ID065","Experimental 1",2,"Score 2","S2",2.76,2.96,-0.2,-6.756756757,"WEEK 36",3
+"ID065","Experimental 1",2,"Score 2","S2",2.88,2.96,-0.08,-2.702702703,"WEEK 52",4
+"ID066","Experimental 2",3,"Score 1","S1",2.9,2.9,NA,NA,"BASELINE",1
+"ID066","Experimental 2",3,"Score 1","S1",2.73,2.9,-0.17,-5.862068966,"WEEK 24",2
+"ID066","Experimental 2",3,"Score 1","S1",2.93,2.9,0.03,1.0344827586,"WEEK 36",3
+"ID066","Experimental 2",3,"Score 1","S1",2.83,2.9,-0.07,-2.413793103,"WEEK 52",4
+"ID066","Experimental 2",3,"Score 2","S2",3.67,3.67,NA,NA,"BASELINE",1
+"ID066","Experimental 2",3,"Score 2","S2",3.51,3.67,-0.16,-4.359673025,"WEEK 24",2
+"ID066","Experimental 2",3,"Score 2","S2",3.61,3.67,-0.06,-1.634877384,"WEEK 36",3
+"ID066","Experimental 2",3,"Score 2","S2",3.56,3.67,-0.11,-2.997275204,"WEEK 52",4
+"ID067","Placebo",1,"Score 1","S1",2.09,2.09,NA,NA,"BASELINE",1
+"ID067","Placebo",1,"Score 1","S1",2.03,2.09,-0.06,-2.870813397,"WEEK 24",2
+"ID067","Placebo",1,"Score 1","S1",1.94,2.09,-0.15,-7.177033493,"WEEK 36",3
+"ID067","Placebo",1,"Score 1","S1",1.7,2.09,-0.39,-18.66028708,"WEEK 52",4
+"ID067","Placebo",1,"Score 2","S2",2.44,2.44,NA,NA,"BASELINE",1
+"ID067","Placebo",1,"Score 2","S2",2.31,2.44,-0.13,-5.327868852,"WEEK 24",2
+"ID067","Placebo",1,"Score 2","S2",2.27,2.44,-0.17,-6.967213115,"WEEK 36",3
+"ID067","Placebo",1,"Score 2","S2",2.08,2.44,-0.36,-14.75409836,"WEEK 52",4
+"ID068","Experimental 2",3,"Score 1","S1",1.91,1.91,NA,NA,"BASELINE",1
+"ID068","Experimental 2",3,"Score 1","S1",1.35,1.91,-0.56,-29.31937173,"WEEK 24",2
+"ID068","Experimental 2",3,"Score 1","S1",1.46,1.91,-0.45,-23.56020942,"WEEK 36",3
+"ID068","Experimental 2",3,"Score 1","S1",1.29,1.91,-0.62,-32.46073298,"WEEK 52",4
+"ID068","Experimental 2",3,"Score 1","S1",1.48,1.91,-0.43,-22.51308901,"WEEK 52",4
+"ID068","Experimental 2",3,"Score 2","S2",2.12,2.12,NA,NA,"BASELINE",1
+"ID068","Experimental 2",3,"Score 2","S2",1.71,2.12,-0.41,-19.33962264,"WEEK 24",2
+"ID068","Experimental 2",3,"Score 2","S2",1.85,2.12,-0.27,-12.73584906,"WEEK 36",3
+"ID068","Experimental 2",3,"Score 2","S2",1.46,2.12,-0.66,-31.13207547,"WEEK 52",4
+"ID068","Experimental 2",3,"Score 2","S2",1.63,2.12,-0.49,-23.11320755,"WEEK 52",4
+"ID069","Experimental 2",3,"Score 1","S1",2.14,2.14,NA,NA,"BASELINE",1
+"ID069","Experimental 2",3,"Score 1","S1",2,2.14,-0.14,-6.542056075,"WEEK 24",2
+"ID069","Experimental 2",3,"Score 1","S1",1.96,2.14,-0.18,-8.411214953,"WEEK 36",3
+"ID069","Experimental 2",3,"Score 1","S1",2.08,2.14,-0.06,-2.803738318,"WEEK 52",4
+"ID069","Experimental 2",3,"Score 2","S2",2.73,2.73,NA,NA,"BASELINE",1
+"ID069","Experimental 2",3,"Score 2","S2",2.59,2.73,-0.14,-5.128205128,"WEEK 24",2
+"ID069","Experimental 2",3,"Score 2","S2",2.5,2.73,-0.23,-8.424908425,"WEEK 36",3
+"ID069","Experimental 2",3,"Score 2","S2",2.6,2.73,-0.13,-4.761904762,"WEEK 52",4
+"ID070","Placebo",1,"Score 1","S1",2.38,2.38,NA,NA,"BASELINE",1
+"ID070","Placebo",1,"Score 1","S1",2.31,2.38,-0.07,-2.941176471,"WEEK 24",2
+"ID070","Placebo",1,"Score 1","S1",2.38,2.38,0,0,"WEEK 36",3
+"ID070","Placebo",1,"Score 1","S1",2.34,2.38,-0.04,-1.680672269,"WEEK 52",4
+"ID070","Placebo",1,"Score 2","S2",2.65,2.65,NA,NA,"BASELINE",1
+"ID070","Placebo",1,"Score 2","S2",2.53,2.65,-0.12,-4.528301887,"WEEK 24",2
+"ID070","Placebo",1,"Score 2","S2",2.62,2.65,-0.03,-1.132075472,"WEEK 36",3
+"ID070","Placebo",1,"Score 2","S2",2.57,2.65,-0.08,-3.018867925,"WEEK 52",4
+"ID071","Experimental 1",2,"Score 1","S1",1.74,1.74,NA,NA,"BASELINE",1
+"ID071","Experimental 1",2,"Score 1","S1",1.71,1.74,-0.03,-1.724137931,"WEEK 24",2
+"ID071","Experimental 1",2,"Score 1","S1",1.62,1.74,-0.12,-6.896551724,"WEEK 24",2
+"ID071","Experimental 1",2,"Score 2","S2",2.24,2.24,NA,NA,"BASELINE",1
+"ID071","Experimental 1",2,"Score 2","S2",2.22,2.24,-0.02,-0.892857143,"WEEK 24",2
+"ID071","Experimental 1",2,"Score 2","S2",2.07,2.24,-0.17,-7.589285714,"WEEK 24",2
+"ID072","Experimental 2",3,"Score 1","S1",1.78,1.78,NA,NA,"BASELINE",1
+"ID072","Experimental 2",3,"Score 1","S1",1.72,1.78,-0.06,-3.370786517,"WEEK 24",2
+"ID072","Experimental 2",3,"Score 1","S1",1.6,1.78,-0.18,-10.11235955,"WEEK 36",3
+"ID072","Experimental 2",3,"Score 1","S1",1.66,1.78,-0.12,-6.741573034,"WEEK 52",4
+"ID072","Experimental 2",3,"Score 2","S2",2.32,2.32,NA,NA,"BASELINE",1
+"ID072","Experimental 2",3,"Score 2","S2",2.16,2.32,-0.16,-6.896551724,"WEEK 24",2
+"ID072","Experimental 2",3,"Score 2","S2",2.11,2.32,-0.21,-9.051724138,"WEEK 36",3
+"ID072","Experimental 2",3,"Score 2","S2",2.12,2.32,-0.2,-8.620689655,"WEEK 52",4
+"ID073","Experimental 2",3,"Score 1","S1",1.48,1.48,NA,NA,"BASELINE",1
+"ID073","Experimental 2",3,"Score 1","S1",1.54,1.48,0.06,4.0540540541,"WEEK 24",2
+"ID073","Experimental 2",3,"Score 1","S1",1.51,1.48,0.03,2.027027027,"WEEK 36",3
+"ID073","Experimental 2",3,"Score 1","S1",1.43,1.48,-0.05,-3.378378378,"WEEK 52",4
+"ID073","Experimental 2",3,"Score 2","S2",1.8,1.8,NA,NA,"BASELINE",1
+"ID073","Experimental 2",3,"Score 2","S2",1.85,1.8,0.05,2.7777777778,"WEEK 24",2
+"ID073","Experimental 2",3,"Score 2","S2",1.82,1.8,0.02,1.1111111111,"WEEK 36",3
+"ID073","Experimental 2",3,"Score 2","S2",1.74,1.8,-0.06,-3.333333333,"WEEK 52",4
+"ID074","Placebo",1,"Score 1","S1",2.45,2.45,NA,NA,"BASELINE",1
+"ID074","Placebo",1,"Score 1","S1",1.97,2.45,-0.48,-19.59183673,"WEEK 24",2
+"ID074","Placebo",1,"Score 1","S1",2.18,2.45,-0.27,-11.02040816,"WEEK 36",3
+"ID074","Placebo",1,"Score 2","S2",2.86,2.86,NA,NA,"BASELINE",1
+"ID074","Placebo",1,"Score 2","S2",2.42,2.86,-0.44,-15.38461538,"WEEK 24",2
+"ID074","Placebo",1,"Score 2","S2",2.69,2.86,-0.17,-5.944055944,"WEEK 36",3
+"ID075","Experimental 2",3,"Score 1","S1",1.42,1.42,NA,NA,"BASELINE",1
+"ID075","Experimental 2",3,"Score 1","S1",1.37,1.42,-0.05,-3.521126761,"WEEK 24",2
+"ID075","Experimental 2",3,"Score 1","S1",1.43,1.42,0.01,0.7042253521,"WEEK 52",4
+"ID075","Experimental 2",3,"Score 2","S2",1.85,1.85,NA,NA,"BASELINE",1
+"ID075","Experimental 2",3,"Score 2","S2",1.74,1.85,-0.11,-5.945945946,"WEEK 24",2
+"ID075","Experimental 2",3,"Score 2","S2",1.83,1.85,-0.02,-1.081081081,"WEEK 52",4
+"ID076","Experimental 1",2,"Score 1","S1",1.48,1.48,NA,NA,"BASELINE",1
+"ID076","Experimental 1",2,"Score 1","S1",1.32,1.48,-0.16,-10.81081081,"WEEK 24",2
+"ID076","Experimental 1",2,"Score 1","S1",1.41,1.48,-0.07,-4.72972973,"WEEK 36",3
+"ID076","Experimental 1",2,"Score 1","S1",1.34,1.48,-0.14,-9.459459459,"WEEK 52",4
+"ID076","Experimental 1",2,"Score 2","S2",1.89,1.89,NA,NA,"BASELINE",1
+"ID076","Experimental 1",2,"Score 2","S2",1.74,1.89,-0.15,-7.936507937,"WEEK 24",2
+"ID076","Experimental 1",2,"Score 2","S2",1.88,1.89,-0.01,-0.529100529,"WEEK 36",3
+"ID076","Experimental 1",2,"Score 2","S2",1.8,1.89,-0.09,-4.761904762,"WEEK 52",4
+"ID077","Placebo",1,"Score 1","S1",2.16,2.16,NA,NA,"BASELINE",1
+"ID077","Placebo",1,"Score 1","S1",2.35,2.16,0.19,8.7962962963,"WEEK 24",2
+"ID077","Placebo",1,"Score 1","S1",2.18,2.16,0.02,0.9259259259,"WEEK 36",3
+"ID077","Placebo",1,"Score 1","S1",2.21,2.16,0.05,2.3148148148,"WEEK 52",4
+"ID077","Placebo",1,"Score 2","S2",2.73,2.73,NA,NA,"BASELINE",1
+"ID077","Placebo",1,"Score 2","S2",2.88,2.73,0.15,5.4945054945,"WEEK 24",2
+"ID077","Placebo",1,"Score 2","S2",2.77,2.73,0.04,1.4652014652,"WEEK 36",3
+"ID077","Placebo",1,"Score 2","S2",2.82,2.73,0.09,3.2967032967,"WEEK 52",4
+"ID078","Placebo",1,"Score 1","S1",2.06,2.06,NA,NA,"BASELINE",1
+"ID078","Placebo",1,"Score 1","S1",1.92,2.06,-0.14,-6.796116505,"WEEK 24",2
+"ID078","Placebo",1,"Score 1","S1",1.87,2.06,-0.19,-9.223300971,"WEEK 36",3
+"ID078","Placebo",1,"Score 1","S1",1.95,2.06,-0.11,-5.339805825,"WEEK 52",4
+"ID078","Placebo",1,"Score 2","S2",2.53,2.53,NA,NA,"BASELINE",1
+"ID078","Placebo",1,"Score 2","S2",2.19,2.53,-0.34,-13.43873518,"WEEK 24",2
+"ID078","Placebo",1,"Score 2","S2",2.12,2.53,-0.41,-16.2055336,"WEEK 36",3
+"ID078","Placebo",1,"Score 2","S2",2.2,2.53,-0.33,-13.04347826,"WEEK 52",4
+"ID079","Experimental 1",2,"Score 1","S1",2.4,2.4,NA,NA,"BASELINE",1
+"ID079","Experimental 1",2,"Score 1","S1",2.26,2.4,-0.14,-5.833333333,"WEEK 24",2
+"ID079","Experimental 1",2,"Score 1","S1",2.04,2.4,-0.36,-15,"WEEK 36",3
+"ID079","Experimental 1",2,"Score 1","S1",2.21,2.4,-0.19,-7.916666667,"WEEK 52",4
+"ID079","Experimental 1",2,"Score 2","S2",3.11,3.11,NA,NA,"BASELINE",1
+"ID079","Experimental 1",2,"Score 2","S2",2.9,3.11,-0.21,-6.752411576,"WEEK 24",2
+"ID079","Experimental 1",2,"Score 2","S2",2.72,3.11,-0.39,-12.54019293,"WEEK 36",3
+"ID079","Experimental 1",2,"Score 2","S2",2.85,3.11,-0.26,-8.360128617,"WEEK 52",4
+"ID080","Experimental 2",3,"Score 1","S1",1.62,1.62,NA,NA,"BASELINE",1
+"ID080","Experimental 2",3,"Score 1","S1",1.44,1.62,-0.18,-11.11111111,"WEEK 24",2
+"ID080","Experimental 2",3,"Score 1","S1",1.5,1.62,-0.12,-7.407407407,"WEEK 36",3
+"ID080","Experimental 2",3,"Score 1","S1",1.65,1.62,0.03,1.8518518519,"WEEK 52",4
+"ID080","Experimental 2",3,"Score 2","S2",1.85,1.85,NA,NA,"BASELINE",1
+"ID080","Experimental 2",3,"Score 2","S2",1.69,1.85,-0.16,-8.648648649,"WEEK 24",2
+"ID080","Experimental 2",3,"Score 2","S2",1.81,1.85,-0.04,-2.162162162,"WEEK 36",3
+"ID080","Experimental 2",3,"Score 2","S2",1.94,1.85,0.09,4.8648648649,"WEEK 52",4
+"ID081","Experimental 2",3,"Score 1","S1",1.61,1.61,NA,NA,"BASELINE",1
+"ID081","Experimental 2",3,"Score 1","S1",1.61,1.61,0,0,"WEEK 24",2
+"ID081","Experimental 2",3,"Score 1","S1",1.63,1.61,0.02,1.2422360248,"WEEK 52",4
+"ID081","Experimental 2",3,"Score 2","S2",2.01,2.01,NA,NA,"BASELINE",1
+"ID081","Experimental 2",3,"Score 2","S2",1.99,2.01,-0.02,-0.995024876,"WEEK 24",2
+"ID081","Experimental 2",3,"Score 2","S2",2.02,2.01,0.01,0.4975124378,"WEEK 36",3
+"ID081","Experimental 2",3,"Score 2","S2",2.12,2.01,0.11,5.4726368159,"WEEK 52",4
+"ID082","Experimental 1",2,"Score 1","S1",1.28,1.28,NA,NA,"BASELINE",1
+"ID082","Experimental 1",2,"Score 2","S2",1.64,1.64,NA,NA,"BASELINE",1
+"ID083","Experimental 2",3,"Score 1","S1",1.74,1.74,NA,NA,"BASELINE",1
+"ID083","Experimental 2",3,"Score 1","S1",1.41,1.74,-0.33,-18.96551724,"WEEK 24",2
+"ID083","Experimental 2",3,"Score 1","S1",1.43,1.74,-0.31,-17.81609195,"WEEK 36",3
+"ID083","Experimental 2",3,"Score 1","S1",1.49,1.74,-0.25,-14.36781609,"WEEK 52",4
+"ID083","Experimental 2",3,"Score 2","S2",2.13,2.13,NA,NA,"BASELINE",1
+"ID083","Experimental 2",3,"Score 2","S2",1.76,2.13,-0.37,-17.37089202,"WEEK 24",2
+"ID083","Experimental 2",3,"Score 2","S2",1.89,2.13,-0.24,-11.26760563,"WEEK 36",3
+"ID083","Experimental 2",3,"Score 2","S2",1.86,2.13,-0.27,-12.67605634,"WEEK 52",4
+"ID084","Experimental 1",2,"Score 1","S1",1.5,1.5,NA,NA,"BASELINE",1
+"ID084","Experimental 1",2,"Score 2","S2",1.78,1.78,NA,NA,"BASELINE",1
+"ID085","Experimental 1",2,"Score 1","S1",1.85,1.85,NA,NA,"BASELINE",1
+"ID085","Experimental 1",2,"Score 1","S1",2.46,1.85,0.61,32.972972973,"WEEK 24",2
+"ID085","Experimental 1",2,"Score 1","S1",2.31,1.85,0.46,24.864864865,"WEEK 36",3
+"ID085","Experimental 1",2,"Score 1","S1",2.38,1.85,0.53,28.648648649,"WEEK 52",4
+"ID085","Experimental 1",2,"Score 2","S2",2.48,2.48,NA,NA,"BASELINE",1
+"ID085","Experimental 1",2,"Score 2","S2",3.13,2.48,0.65,26.209677419,"WEEK 24",2
+"ID085","Experimental 1",2,"Score 2","S2",2.83,2.48,0.35,14.112903226,"WEEK 36",3
+"ID085","Experimental 1",2,"Score 2","S2",2.89,2.48,0.41,16.532258065,"WEEK 52",4
+"ID086","Experimental 2",3,"Score 1","S1",1.75,1.75,NA,NA,"BASELINE",1
+"ID086","Experimental 2",3,"Score 2","S2",2.03,2.03,NA,NA,"BASELINE",1
+"ID087","Experimental 1",2,"Score 1","S1",3.17,3.17,NA,NA,"BASELINE",1
+"ID087","Experimental 1",2,"Score 1","S1",2.9,3.17,-0.27,-8.517350158,"WEEK 24",2
+"ID087","Experimental 1",2,"Score 1","S1",3.1,3.17,-0.07,-2.208201893,"WEEK 36",3
+"ID087","Experimental 1",2,"Score 1","S1",3,3.17,-0.17,-5.362776025,"WEEK 52",4
+"ID087","Experimental 1",2,"Score 2","S2",4.05,4.05,NA,NA,"BASELINE",1
+"ID087","Experimental 1",2,"Score 2","S2",3.81,4.05,-0.24,-5.925925926,"WEEK 24",2
+"ID087","Experimental 1",2,"Score 2","S2",3.97,4.05,-0.08,-1.975308642,"WEEK 36",3
+"ID087","Experimental 1",2,"Score 2","S2",3.82,4.05,-0.23,-5.679012346,"WEEK 52",4
+"ID088","Placebo",1,"Score 1","S1",2.53,2.53,NA,NA,"BASELINE",1
+"ID088","Placebo",1,"Score 1","S1",2.43,2.53,-0.1,-3.95256917,"WEEK 24",2
+"ID088","Placebo",1,"Score 1","S1",2.53,2.53,0,0,"WEEK 36",3
+"ID088","Placebo",1,"Score 1","S1",2.45,2.53,-0.08,-3.162055336,"WEEK 52",4
+"ID088","Placebo",1,"Score 2","S2",2.98,2.98,NA,NA,"BASELINE",1
+"ID088","Placebo",1,"Score 2","S2",2.99,2.98,0.01,0.3355704698,"WEEK 24",2
+"ID088","Placebo",1,"Score 2","S2",3,2.98,0.02,0.6711409396,"WEEK 36",3
+"ID088","Placebo",1,"Score 2","S2",2.95,2.98,-0.03,-1.006711409,"WEEK 52",4
+"ID089","Experimental 1",2,"Score 1","S1",1.45,1.45,NA,NA,"BASELINE",1
+"ID089","Experimental 1",2,"Score 1","S1",1.53,1.45,0.08,5.5172413793,"WEEK 24",2
+"ID089","Experimental 1",2,"Score 1","S1",1.59,1.45,0.14,9.6551724138,"WEEK 36",3
+"ID089","Experimental 1",2,"Score 1","S1",1.64,1.45,0.19,13.103448276,"WEEK 52",4
+"ID089","Experimental 1",2,"Score 2","S2",1.92,1.92,NA,NA,"BASELINE",1
+"ID089","Experimental 1",2,"Score 2","S2",2.07,1.92,0.15,7.8125,"WEEK 24",2
+"ID089","Experimental 1",2,"Score 2","S2",2.06,1.92,0.14,7.2916666667,"WEEK 36",3
+"ID089","Experimental 1",2,"Score 2","S2",2.12,1.92,0.2,10.416666667,"WEEK 52",4
+"ID090","Placebo",1,"Score 1","S1",2.56,2.56,NA,NA,"BASELINE",1
+"ID090","Placebo",1,"Score 1","S1",2.52,2.56,-0.04,-1.5625,"WEEK 24",2
+"ID090","Placebo",1,"Score 1","S1",2.41,2.56,-0.15,-5.859375,"WEEK 36",3
+"ID090","Placebo",1,"Score 1","S1",2.36,2.56,-0.2,-7.8125,"WEEK 52",4
+"ID090","Placebo",1,"Score 2","S2",3.67,3.67,NA,NA,"BASELINE",1
+"ID090","Placebo",1,"Score 2","S2",3.77,3.67,0.1,2.7247956403,"WEEK 24",2
+"ID090","Placebo",1,"Score 2","S2",3.52,3.67,-0.15,-4.08719346,"WEEK 36",3
+"ID090","Placebo",1,"Score 2","S2",3.51,3.67,-0.16,-4.359673025,"WEEK 52",4
+"ID091","Experimental 1",2,"Score 1","S1",1.21,1.21,NA,NA,"BASELINE",1
+"ID091","Experimental 1",2,"Score 1","S1",1.23,1.21,0.02,1.652892562,"WEEK 24",2
+"ID091","Experimental 1",2,"Score 1","S1",1.21,1.21,0,0,"WEEK 36",3
+"ID091","Experimental 1",2,"Score 1","S1",1.09,1.21,-0.12,-9.917355372,"WEEK 52",4
+"ID091","Experimental 1",2,"Score 2","S2",1.7,1.7,NA,NA,"BASELINE",1
+"ID091","Experimental 1",2,"Score 2","S2",1.79,1.7,0.09,5.2941176471,"WEEK 24",2
+"ID091","Experimental 1",2,"Score 2","S2",1.69,1.7,-0.01,-0.588235294,"WEEK 36",3
+"ID091","Experimental 1",2,"Score 2","S2",1.57,1.7,-0.13,-7.647058824,"WEEK 52",4
+"ID092","Placebo",1,"Score 1","S1",1.47,1.47,NA,NA,"BASELINE",1
+"ID092","Placebo",1,"Score 1","S1",1.57,1.47,0.1,6.8027210884,"WEEK 36",3
+"ID092","Placebo",1,"Score 1","S1",1.47,1.47,0,0,"WEEK 52",4
+"ID092","Placebo",1,"Score 2","S2",1.74,1.74,NA,NA,"BASELINE",1
+"ID092","Placebo",1,"Score 2","S2",1.86,1.74,0.12,6.8965517241,"WEEK 36",3
+"ID092","Placebo",1,"Score 2","S2",1.78,1.74,0.04,2.2988505747,"WEEK 52",4
+"ID093","Experimental 2",3,"Score 1","S1",2.34,2.34,NA,NA,"BASELINE",1
+"ID093","Experimental 2",3,"Score 1","S1",2.32,2.34,-0.02,-0.854700855,"WEEK 24",2
+"ID093","Experimental 2",3,"Score 1","S1",2.23,2.34,-0.11,-4.700854701,"WEEK 36",3
+"ID093","Experimental 2",3,"Score 1","S1",2.34,2.34,0,0,"WEEK 52",4
+"ID093","Experimental 2",3,"Score 2","S2",2.71,2.71,NA,NA,"BASELINE",1
+"ID093","Experimental 2",3,"Score 2","S2",2.7,2.71,-0.01,-0.36900369,"WEEK 24",2
+"ID093","Experimental 2",3,"Score 2","S2",2.57,2.71,-0.14,-5.166051661,"WEEK 36",3
+"ID094","Placebo",1,"Score 1","S1",1.86,1.86,NA,NA,"BASELINE",1
+"ID094","Placebo",1,"Score 1","S1",1.88,1.86,0.02,1.0752688172,"WEEK 24",2
+"ID094","Placebo",1,"Score 1","S1",1.84,1.86,-0.02,-1.075268817,"WEEK 36",3
+"ID094","Placebo",1,"Score 1","S1",1.87,1.86,0.01,0.5376344086,"WEEK 52",4
+"ID094","Placebo",1,"Score 2","S2",2.08,2.08,NA,NA,"BASELINE",1
+"ID094","Placebo",1,"Score 2","S2",2.11,2.08,0.03,1.4423076923,"WEEK 24",2
+"ID094","Placebo",1,"Score 2","S2",2.04,2.08,-0.04,-1.923076923,"WEEK 36",3
+"ID094","Placebo",1,"Score 2","S2",2.07,2.08,-0.01,-0.480769231,"WEEK 52",4
+"ID095","Experimental 1",2,"Score 1","S1",2.04,2.04,NA,NA,"BASELINE",1
+"ID095","Experimental 1",2,"Score 1","S1",2,2.04,-0.04,-1.960784314,"WEEK 24",2
+"ID095","Experimental 1",2,"Score 1","S1",2.03,2.04,-0.01,-0.490196078,"WEEK 36",3
+"ID095","Experimental 1",2,"Score 1","S1",1.95,2.04,-0.09,-4.411764706,"WEEK 52",4
+"ID095","Experimental 1",2,"Score 2","S2",2.8,2.8,NA,NA,"BASELINE",1
+"ID095","Experimental 1",2,"Score 2","S2",2.66,2.8,-0.14,-5,"WEEK 24",2
+"ID095","Experimental 1",2,"Score 2","S2",2.78,2.8,-0.02,-0.714285714,"WEEK 36",3
+"ID095","Experimental 1",2,"Score 2","S2",2.7,2.8,-0.1,-3.571428571,"WEEK 52",4
+"ID096","Experimental 2",3,"Score 1","S1",1.43,1.43,NA,NA,"BASELINE",1
+"ID096","Experimental 2",3,"Score 1","S1",1.85,1.43,0.42,29.370629371,"WEEK 24",2
+"ID096","Experimental 2",3,"Score 1","S1",1.57,1.43,0.14,9.7902097902,"WEEK 36",3
+"ID096","Experimental 2",3,"Score 1","S1",1.62,1.43,0.19,13.286713287,"WEEK 52",4
+"ID096","Experimental 2",3,"Score 1","S1",1.13,1.43,-0.3,-20.97902098,"WEEK 52",4
+"ID096","Experimental 2",3,"Score 2","S2",1.73,1.73,NA,NA,"BASELINE",1
+"ID096","Experimental 2",3,"Score 2","S2",2.18,1.73,0.45,26.011560694,"WEEK 24",2
+"ID096","Experimental 2",3,"Score 2","S2",1.92,1.73,0.19,10.98265896,"WEEK 36",3
+"ID096","Experimental 2",3,"Score 2","S2",1.83,1.73,0.1,5.7803468208,"WEEK 52",4
+"ID096","Experimental 2",3,"Score 2","S2",1.59,1.73,-0.14,-8.092485549,"WEEK 52",4
+"ID097","Experimental 1",2,"Score 1","S1",2.43,2.43,NA,NA,"BASELINE",1
+"ID097","Experimental 1",2,"Score 1","S1",2.42,2.43,-0.01,-0.411522634,"WEEK 24",2
+"ID097","Experimental 1",2,"Score 1","S1",2.4,2.43,-0.03,-1.234567901,"WEEK 36",3
+"ID097","Experimental 1",2,"Score 1","S1",2.29,2.43,-0.14,-5.761316872,"WEEK 52",4
+"ID097","Experimental 1",2,"Score 2","S2",3.08,3.08,NA,NA,"BASELINE",1
+"ID097","Experimental 1",2,"Score 2","S2",2.94,3.08,-0.14,-4.545454545,"WEEK 24",2
+"ID097","Experimental 1",2,"Score 2","S2",2.9,3.08,-0.18,-5.844155844,"WEEK 36",3
+"ID097","Experimental 1",2,"Score 2","S2",2.8,3.08,-0.28,-9.090909091,"WEEK 52",4
+"ID098","Experimental 1",2,"Score 1","S1",2.83,2.83,NA,NA,"BASELINE",1
+"ID098","Experimental 1",2,"Score 1","S1",2.71,2.83,-0.12,-4.240282686,"WEEK 24",2
+"ID098","Experimental 1",2,"Score 1","S1",2.73,2.83,-0.1,-3.533568905,"WEEK 36",3
+"ID098","Experimental 1",2,"Score 1","S1",2.68,2.83,-0.15,-5.300353357,"WEEK 52",4
+"ID098","Experimental 1",2,"Score 2","S2",3.38,3.38,NA,NA,"BASELINE",1
+"ID098","Experimental 1",2,"Score 2","S2",3.33,3.38,-0.05,-1.479289941,"WEEK 24",2
+"ID098","Experimental 1",2,"Score 2","S2",3.26,3.38,-0.12,-3.550295858,"WEEK 36",3
+"ID098","Experimental 1",2,"Score 2","S2",3.24,3.38,-0.14,-4.142011834,"WEEK 52",4
+"ID099","Placebo",1,"Score 1","S1",1.86,1.86,NA,NA,"BASELINE",1
+"ID099","Placebo",1,"Score 1","S1",3.15,1.86,1.29,69.35483871,"WEEK 24",2
+"ID099","Placebo",1,"Score 1","S1",2.42,1.86,0.56,30.107526882,"WEEK 36",3
+"ID099","Placebo",1,"Score 2","S2",2.23,2.23,NA,NA,"BASELINE",1
+"ID099","Placebo",1,"Score 2","S2",3.83,2.23,1.6,71.748878924,"WEEK 24",2
+"ID099","Placebo",1,"Score 2","S2",2.93,2.23,0.7,31.390134529,"WEEK 36",3
+"ID099","Placebo",1,"Score 2","S2",2.97,2.23,0.74,33.183856502,"WEEK 52",4
+"ID100","Experimental 1",2,"Score 1","S1",1.85,1.85,NA,NA,"BASELINE",1
+"ID100","Experimental 1",2,"Score 1","S1",1.65,1.85,-0.2,-10.81081081,"WEEK 24",2
+"ID100","Experimental 1",2,"Score 1","S1",1.56,1.85,-0.29,-15.67567568,"WEEK 36",3
+"ID100","Experimental 1",2,"Score 1","S1",1.37,1.85,-0.48,-25.94594595,"WEEK 52",4
+"ID100","Experimental 1",2,"Score 2","S2",2.21,2.21,NA,NA,"BASELINE",1
+"ID100","Experimental 1",2,"Score 2","S2",1.96,2.21,-0.25,-11.31221719,"WEEK 24",2
+"ID100","Experimental 1",2,"Score 2","S2",1.83,2.21,-0.38,-17.19457014,"WEEK 36",3
+"ID100","Experimental 1",2,"Score 2","S2",1.6,2.21,-0.61,-27.60180995,"WEEK 52",4
+"ID101","Experimental 2",3,"Score 1","S1",1.5,1.5,NA,NA,"BASELINE",1
+"ID101","Experimental 2",3,"Score 1","S1",1.44,1.5,-0.06,-4,"WEEK 24",2
+"ID101","Experimental 2",3,"Score 1","S1",1.12,1.5,-0.38,-25.33333333,"WEEK 36",3
+"ID101","Experimental 2",3,"Score 1","S1",1.46,1.5,-0.04,-2.666666667,"WEEK 36",3
+"ID101","Experimental 2",3,"Score 1","S1",1.53,1.5,0.03,2,"WEEK 52",4
+"ID101","Experimental 2",3,"Score 2","S2",1.94,1.94,NA,NA,"BASELINE",1
+"ID101","Experimental 2",3,"Score 2","S2",1.9,1.94,-0.04,-2.06185567,"WEEK 24",2
+"ID101","Experimental 2",3,"Score 2","S2",1.57,1.94,-0.37,-19.07216495,"WEEK 36",3
+"ID101","Experimental 2",3,"Score 2","S2",1.86,1.94,-0.08,-4.12371134,"WEEK 36",3
+"ID101","Experimental 2",3,"Score 2","S2",1.94,1.94,0,0,"WEEK 52",4
+"ID102","Experimental 2",3,"Score 1","S1",1.8,1.8,NA,NA,"BASELINE",1
+"ID102","Experimental 2",3,"Score 1","S1",1.7,1.8,-0.1,-5.555555556,"WEEK 24",2
+"ID102","Experimental 2",3,"Score 1","S1",1.21,1.8,-0.59,-32.77777778,"WEEK 36",3
+"ID102","Experimental 2",3,"Score 1","S1",1.09,1.8,-0.71,-39.44444444,"WEEK 52",4
+"ID102","Experimental 2",3,"Score 2","S2",1.97,1.97,NA,NA,"BASELINE",1
+"ID102","Experimental 2",3,"Score 2","S2",1.89,1.97,-0.08,-4.060913706,"WEEK 24",2
+"ID102","Experimental 2",3,"Score 2","S2",1.41,1.97,-0.56,-28.42639594,"WEEK 36",3
+"ID102","Experimental 2",3,"Score 2","S2",1.25,1.97,-0.72,-36.54822335,"WEEK 52",4
+"ID103","Experimental 1",2,"Score 1","S1",2.01,2.01,NA,NA,"BASELINE",1
+"ID103","Experimental 1",2,"Score 1","S1",1.89,2.01,-0.12,-5.970149254,"WEEK 24",2
+"ID103","Experimental 1",2,"Score 1","S1",1.79,2.01,-0.22,-10.94527363,"WEEK 36",3
+"ID103","Experimental 1",2,"Score 1","S1",1.67,2.01,-0.34,-16.91542289,"WEEK 52",4
+"ID103","Experimental 1",2,"Score 2","S2",2.46,2.46,NA,NA,"BASELINE",1
+"ID103","Experimental 1",2,"Score 2","S2",2.3,2.46,-0.16,-6.504065041,"WEEK 24",2
+"ID103","Experimental 1",2,"Score 2","S2",2.13,2.46,-0.33,-13.41463415,"WEEK 36",3
+"ID103","Experimental 1",2,"Score 2","S2",1.99,2.46,-0.47,-19.10569106,"WEEK 52",4
+"ID104","Placebo",1,"Score 1","S1",2.8,2.8,NA,NA,"BASELINE",1
+"ID104","Placebo",1,"Score 1","S1",2.8,2.8,0,0,"WEEK 24",2
+"ID104","Placebo",1,"Score 1","S1",2.94,2.8,0.14,5,"WEEK 36",3
+"ID104","Placebo",1,"Score 1","S1",2.73,2.8,-0.07,-2.5,"WEEK 52",4
+"ID104","Placebo",1,"Score 2","S2",3.58,3.58,NA,NA,"BASELINE",1
+"ID104","Placebo",1,"Score 2","S2",3.61,3.58,0.03,0.8379888268,"WEEK 24",2
+"ID104","Placebo",1,"Score 2","S2",3.76,3.58,0.18,5.0279329609,"WEEK 36",3
+"ID104","Placebo",1,"Score 2","S2",3.64,3.58,0.06,1.6759776536,"WEEK 52",4
+"ID105","Experimental 1",2,"Score 1","S1",2.24,2.24,NA,NA,"BASELINE",1
+"ID105","Experimental 1",2,"Score 1","S1",2.07,2.24,-0.17,-7.589285714,"WEEK 24",2
+"ID105","Experimental 1",2,"Score 1","S1",2.15,2.24,-0.09,-4.017857143,"WEEK 36",3
+"ID105","Experimental 1",2,"Score 1","S1",1.51,2.24,-0.73,-32.58928571,"WEEK 52",4
+"ID105","Experimental 1",2,"Score 2","S2",2.62,2.62,NA,NA,"BASELINE",1
+"ID105","Experimental 1",2,"Score 2","S2",2.33,2.62,-0.29,-11.06870229,"WEEK 24",2
+"ID105","Experimental 1",2,"Score 2","S2",2.32,2.62,-0.3,-11.45038168,"WEEK 36",3
+"ID105","Experimental 1",2,"Score 2","S2",1.8,2.62,-0.82,-31.29770992,"WEEK 52",4
+"ID106","Placebo",1,"Score 1","S1",1.8,1.8,NA,NA,"BASELINE",1
+"ID106","Placebo",1,"Score 1","S1",1.72,1.8,-0.08,-4.444444444,"WEEK 24",2
+"ID106","Placebo",1,"Score 1","S1",1.79,1.8,-0.01,-0.555555556,"WEEK 36",3
+"ID106","Placebo",1,"Score 1","S1",1.62,1.8,-0.18,-10,"WEEK 52",4
+"ID106","Placebo",1,"Score 2","S2",2.43,2.43,NA,NA,"BASELINE",1
+"ID106","Placebo",1,"Score 2","S2",2.35,2.43,-0.08,-3.29218107,"WEEK 24",2
+"ID106","Placebo",1,"Score 2","S2",2.46,2.43,0.03,1.2345679012,"WEEK 36",3
+"ID106","Placebo",1,"Score 2","S2",2.29,2.43,-0.14,-5.761316872,"WEEK 52",4
+"ID107","Placebo",1,"Score 1","S1",3.22,3.22,NA,NA,"BASELINE",1
+"ID107","Placebo",1,"Score 1","S1",2.96,3.22,-0.26,-8.074534161,"WEEK 24",2
+"ID107","Placebo",1,"Score 1","S1",2.89,3.22,-0.33,-10.2484472,"WEEK 36",3
+"ID107","Placebo",1,"Score 1","S1",2.82,3.22,-0.4,-12.42236025,"WEEK 52",4
+"ID107","Placebo",1,"Score 2","S2",4.63,4.63,NA,NA,"BASELINE",1
+"ID107","Placebo",1,"Score 2","S2",4.21,4.63,-0.42,-9.071274298,"WEEK 24",2
+"ID107","Placebo",1,"Score 2","S2",3.92,4.63,-0.71,-15.33477322,"WEEK 36",3
+"ID107","Placebo",1,"Score 2","S2",3.9,4.63,-0.73,-15.76673866,"WEEK 52",4
+"ID108","Placebo",1,"Score 1","S1",1.25,1.25,NA,NA,"BASELINE",1
+"ID108","Placebo",1,"Score 1","S1",1.13,1.25,-0.12,-9.6,"WEEK 24",2
+"ID108","Placebo",1,"Score 1","S1",0.74,1.25,-0.51,-40.8,"WEEK 36",3
+"ID108","Placebo",1,"Score 2","S2",1.53,1.53,NA,NA,"BASELINE",1
+"ID108","Placebo",1,"Score 2","S2",1.25,1.53,-0.28,-18.30065359,"WEEK 24",2
+"ID108","Placebo",1,"Score 2","S2",0.79,1.53,-0.74,-48.36601307,"WEEK 36",3
+"ID109","Placebo",1,"Score 1","S1",2.34,2.34,NA,NA,"BASELINE",1
+"ID109","Placebo",1,"Score 1","S1",2.43,2.34,0.09,3.8461538462,"WEEK 24",2
+"ID109","Placebo",1,"Score 1","S1",2.2,2.34,-0.14,-5.982905983,"WEEK 36",3
+"ID109","Placebo",1,"Score 1","S1",2.75,2.34,0.41,17.521367521,"WEEK 52",4
+"ID109","Placebo",1,"Score 2","S2",2.87,2.87,NA,NA,"BASELINE",1
+"ID109","Placebo",1,"Score 2","S2",2.89,2.87,0.02,0.6968641115,"WEEK 24",2
+"ID109","Placebo",1,"Score 2","S2",2.68,2.87,-0.19,-6.620209059,"WEEK 36",3
+"ID109","Placebo",1,"Score 2","S2",3.22,2.87,0.35,12.195121951,"WEEK 52",4
+"ID110","Placebo",1,"Score 1","S1",2.1,2.1,NA,NA,"BASELINE",1
+"ID110","Placebo",1,"Score 1","S1",2.15,2.1,0.05,2.380952381,"WEEK 24",2
+"ID110","Placebo",1,"Score 1","S1",2.16,2.1,0.06,2.8571428571,"WEEK 24",2
+"ID110","Placebo",1,"Score 1","S1",2.11,2.1,0.01,0.4761904762,"WEEK 36",3
+"ID110","Placebo",1,"Score 1","S1",2.13,2.1,0.03,1.4285714286,"WEEK 52",4
+"ID110","Placebo",1,"Score 2","S2",2.74,2.74,NA,NA,"BASELINE",1
+"ID110","Placebo",1,"Score 2","S2",2.78,2.74,0.04,1.4598540146,"WEEK 24",2
+"ID110","Placebo",1,"Score 2","S2",2.7,2.74,-0.04,-1.459854015,"WEEK 24",2
+"ID110","Placebo",1,"Score 2","S2",2.66,2.74,-0.08,-2.919708029,"WEEK 36",3
+"ID110","Placebo",1,"Score 2","S2",2.6,2.74,-0.14,-5.109489051,"WEEK 52",4
+"ID111","Experimental 2",3,"Score 1","S1",1.73,1.73,NA,NA,"BASELINE",1
+"ID111","Experimental 2",3,"Score 1","S1",1.53,1.73,-0.2,-11.56069364,"WEEK 24",2
+"ID111","Experimental 2",3,"Score 1","S1",1.65,1.73,-0.08,-4.624277457,"WEEK 36",3
+"ID111","Experimental 2",3,"Score 1","S1",1.8,1.73,0.07,4.0462427746,"WEEK 52",4
+"ID111","Experimental 2",3,"Score 2","S2",2.17,2.17,NA,NA,"BASELINE",1
+"ID111","Experimental 2",3,"Score 2","S2",2.02,2.17,-0.15,-6.912442396,"WEEK 24",2
+"ID111","Experimental 2",3,"Score 2","S2",2.08,2.17,-0.09,-4.147465438,"WEEK 36",3
+"ID111","Experimental 2",3,"Score 2","S2",2.32,2.17,0.15,6.9124423963,"WEEK 52",4
+"ID112","Experimental 1",2,"Score 1","S1",2.39,2.39,NA,NA,"BASELINE",1
+"ID112","Experimental 1",2,"Score 1","S1",2.59,2.39,0.2,8.3682008368,"WEEK 24",2
+"ID112","Experimental 1",2,"Score 1","S1",2.28,2.39,-0.11,-4.60251046,"WEEK 36",3
+"ID112","Experimental 1",2,"Score 1","S1",2.17,2.39,-0.22,-9.205020921,"WEEK 52",4
+"ID112","Experimental 1",2,"Score 2","S2",3.17,3.17,NA,NA,"BASELINE",1
+"ID112","Experimental 1",2,"Score 2","S2",3.3,3.17,0.13,4.1009463722,"WEEK 24",2
+"ID112","Experimental 1",2,"Score 2","S2",2.97,3.17,-0.2,-6.309148265,"WEEK 36",3
+"ID112","Experimental 1",2,"Score 2","S2",2.84,3.17,-0.33,-10.41009464,"WEEK 52",4
+"ID113","Experimental 1",2,"Score 1","S1",2.57,2.57,NA,NA,"BASELINE",1
+"ID113","Experimental 1",2,"Score 1","S1",2.59,2.57,0.02,0.7782101167,"WEEK 24",2
+"ID113","Experimental 1",2,"Score 1","S1",2.28,2.57,-0.29,-11.28404669,"WEEK 36",3
+"ID113","Experimental 1",2,"Score 1","S1",2.23,2.57,-0.34,-13.22957198,"WEEK 52",4
+"ID113","Experimental 1",2,"Score 2","S2",2.99,2.99,NA,NA,"BASELINE",1
+"ID113","Experimental 1",2,"Score 2","S2",3.09,2.99,0.1,3.3444816054,"WEEK 24",2
+"ID113","Experimental 1",2,"Score 2","S2",2.7,2.99,-0.29,-9.698996656,"WEEK 36",3
+"ID113","Experimental 1",2,"Score 2","S2",2.65,2.99,-0.34,-11.37123746,"WEEK 52",4
+"ID113","Experimental 1",2,"Score 2","S2",2.75,2.99,-0.24,-8.026755853,"WEEK 52",4
+"ID114","Experimental 1",2,"Score 1","S1",1.63,1.63,NA,NA,"BASELINE",1
+"ID114","Experimental 1",2,"Score 1","S1",1.5,1.63,-0.13,-7.975460123,"WEEK 24",2
+"ID114","Experimental 1",2,"Score 1","S1",1.38,1.63,-0.25,-15.33742331,"WEEK 36",3
+"ID114","Experimental 1",2,"Score 1","S1",0.46,1.63,-1.17,-71.7791411,"WEEK 52",4
+"ID114","Experimental 1",2,"Score 2","S2",1.94,1.94,NA,NA,"BASELINE",1
+"ID114","Experimental 1",2,"Score 2","S2",1.72,1.94,-0.22,-11.34020619,"WEEK 24",2
+"ID114","Experimental 1",2,"Score 2","S2",1.67,1.94,-0.27,-13.91752577,"WEEK 36",3
+"ID114","Experimental 1",2,"Score 2","S2",0.91,1.94,-1.03,-53.09278351,"WEEK 52",4
+"ID115","Placebo",1,"Score 1","S1",2.52,2.52,NA,NA,"BASELINE",1
+"ID115","Placebo",1,"Score 1","S1",2.17,2.52,-0.35,-13.88888889,"WEEK 24",2
+"ID115","Placebo",1,"Score 1","S1",2.42,2.52,-0.1,-3.968253968,"WEEK 24",2
+"ID115","Placebo",1,"Score 2","S2",3.08,3.08,NA,NA,"BASELINE",1
+"ID115","Placebo",1,"Score 2","S2",2.65,3.08,-0.43,-13.96103896,"WEEK 24",2
+"ID115","Placebo",1,"Score 2","S2",2.99,3.08,-0.09,-2.922077922,"WEEK 24",2
+"ID116","Experimental 2",3,"Score 1","S1",2.67,2.67,NA,NA,"BASELINE",1
+"ID116","Experimental 2",3,"Score 1","S1",2.58,2.67,-0.09,-3.370786517,"WEEK 24",2
+"ID116","Experimental 2",3,"Score 1","S1",2.48,2.67,-0.19,-7.116104869,"WEEK 36",3
+"ID116","Experimental 2",3,"Score 1","S1",2.47,2.67,-0.2,-7.490636704,"WEEK 52",4
+"ID116","Experimental 2",3,"Score 2","S2",3.52,3.52,NA,NA,"BASELINE",1
+"ID116","Experimental 2",3,"Score 2","S2",3.56,3.52,0.04,1.1363636364,"WEEK 24",2
+"ID116","Experimental 2",3,"Score 2","S2",3.36,3.52,-0.16,-4.545454545,"WEEK 36",3
+"ID116","Experimental 2",3,"Score 2","S2",3.23,3.52,-0.29,-8.238636364,"WEEK 52",4
+"ID117","Placebo",1,"Score 1","S1",1.3,1.3,NA,NA,"BASELINE",1
+"ID117","Placebo",1,"Score 1","S1",1.35,1.3,0.05,3.8461538462,"WEEK 24",2
+"ID117","Placebo",1,"Score 1","S1",1.31,1.3,0.01,0.7692307692,"WEEK 36",3
+"ID117","Placebo",1,"Score 1","S1",1.14,1.3,-0.16,-12.30769231,"WEEK 52",4
+"ID117","Placebo",1,"Score 2","S2",1.51,1.51,NA,NA,"BASELINE",1
+"ID117","Placebo",1,"Score 2","S2",1.53,1.51,0.02,1.3245033113,"WEEK 24",2
+"ID117","Placebo",1,"Score 2","S2",1.36,1.51,-0.15,-9.933774834,"WEEK 52",4
+"ID118","Experimental 2",3,"Score 1","S1",1.82,1.82,NA,NA,"BASELINE",1
+"ID118","Experimental 2",3,"Score 1","S1",1.85,1.82,0.03,1.6483516484,"WEEK 24",2
+"ID118","Experimental 2",3,"Score 1","S1",1.75,1.82,-0.07,-3.846153846,"WEEK 36",3
+"ID118","Experimental 2",3,"Score 1","S1",1.67,1.82,-0.15,-8.241758242,"WEEK 52",4
+"ID118","Experimental 2",3,"Score 2","S2",2.33,2.33,NA,NA,"BASELINE",1
+"ID118","Experimental 2",3,"Score 2","S2",2.34,2.33,0.01,0.4291845494,"WEEK 24",2
+"ID118","Experimental 2",3,"Score 2","S2",2.27,2.33,-0.06,-2.575107296,"WEEK 36",3
+"ID118","Experimental 2",3,"Score 2","S2",2.1,2.33,-0.23,-9.871244635,"WEEK 52",4
+"ID119","Placebo",1,"Score 1","S1",1.33,1.33,NA,NA,"BASELINE",1
+"ID119","Placebo",1,"Score 1","S1",1.3,1.33,-0.03,-2.255639098,"WEEK 24",2
+"ID119","Placebo",1,"Score 1","S1",1.25,1.33,-0.08,-6.015037594,"WEEK 36",3
+"ID119","Placebo",1,"Score 1","S1",1.29,1.33,-0.04,-3.007518797,"WEEK 52",4
+"ID119","Placebo",1,"Score 2","S2",1.55,1.55,NA,NA,"BASELINE",1
+"ID119","Placebo",1,"Score 2","S2",1.56,1.55,0.01,0.6451612903,"WEEK 24",2
+"ID119","Placebo",1,"Score 2","S2",1.49,1.55,-0.06,-3.870967742,"WEEK 36",3
+"ID119","Placebo",1,"Score 2","S2",1.51,1.55,-0.04,-2.580645161,"WEEK 52",4
+"ID120","Experimental 1",2,"Score 1","S1",1.76,1.76,NA,NA,"BASELINE",1
+"ID120","Experimental 1",2,"Score 2","S2",1.99,1.99,NA,NA,"BASELINE",1
+"ID121","Placebo",1,"Score 1","S1",1.7,1.7,NA,NA,"BASELINE",1
+"ID121","Placebo",1,"Score 1","S1",1.73,1.7,0.03,1.7647058824,"WEEK 24",2
+"ID121","Placebo",1,"Score 1","S1",1.66,1.7,-0.04,-2.352941176,"WEEK 36",3
+"ID121","Placebo",1,"Score 1","S1",1.64,1.7,-0.06,-3.529411765,"WEEK 52",4
+"ID121","Placebo",1,"Score 2","S2",1.92,1.92,NA,NA,"BASELINE",1
+"ID121","Placebo",1,"Score 2","S2",2.04,1.92,0.12,6.25,"WEEK 24",2
+"ID121","Placebo",1,"Score 2","S2",1.88,1.92,-0.04,-2.083333333,"WEEK 36",3
+"ID121","Placebo",1,"Score 2","S2",1.84,1.92,-0.08,-4.166666667,"WEEK 52",4
+"ID122","Experimental 1",2,"Score 1","S1",1.79,1.79,NA,NA,"BASELINE",1
+"ID122","Experimental 1",2,"Score 2","S2",2.37,2.37,NA,NA,"BASELINE",1
+"ID123","Experimental 1",2,"Score 1","S1",1.53,1.53,NA,NA,"BASELINE",1
+"ID123","Experimental 1",2,"Score 1","S1",1.39,1.53,-0.14,-9.150326797,"WEEK 24",2
+"ID123","Experimental 1",2,"Score 2","S2",1.76,1.76,NA,NA,"BASELINE",1
+"ID123","Experimental 1",2,"Score 2","S2",1.63,1.76,-0.13,-7.386363636,"WEEK 24",2
+"ID124","Experimental 2",3,"Score 1","S1",1.13,1.13,NA,NA,"BASELINE",1
+"ID124","Experimental 2",3,"Score 1","S1",1.25,1.13,0.12,10.619469027,"WEEK 24",2
+"ID124","Experimental 2",3,"Score 2","S2",1.37,1.37,NA,NA,"BASELINE",1
+"ID124","Experimental 2",3,"Score 2","S2",1.47,1.37,0.1,7.299270073,"WEEK 24",2
+"ID125","Experimental 2",3,"Score 1","S1",1.32,1.32,NA,NA,"BASELINE",1
+"ID125","Experimental 2",3,"Score 1","S1",1.28,1.32,-0.04,-3.03030303,"WEEK 24",2
+"ID125","Experimental 2",3,"Score 1","S1",1.25,1.32,-0.07,-5.303030303,"WEEK 36",3
+"ID125","Experimental 2",3,"Score 2","S2",1.56,1.56,NA,NA,"BASELINE",1
+"ID125","Experimental 2",3,"Score 2","S2",1.54,1.56,-0.02,-1.282051282,"WEEK 24",2
+"ID125","Experimental 2",3,"Score 2","S2",1.47,1.56,-0.09,-5.769230769,"WEEK 36",3
+"ID125","Experimental 2",3,"Score 2","S2",1.5,1.56,-0.06,-3.846153846,"WEEK 52",4
+"ID126","Placebo",1,"Score 1","S1",2.12,2.12,NA,NA,"BASELINE",1
+"ID126","Placebo",1,"Score 1","S1",2.16,2.12,0.04,1.8867924528,"WEEK 24",2
+"ID126","Placebo",1,"Score 1","S1",2.2,2.12,0.08,3.7735849057,"WEEK 36",3
+"ID126","Placebo",1,"Score 2","S2",2.51,2.51,NA,NA,"BASELINE",1
+"ID126","Placebo",1,"Score 2","S2",2.51,2.51,0,0,"WEEK 24",2
+"ID126","Placebo",1,"Score 2","S2",2.56,2.51,0.05,1.9920318725,"WEEK 36",3
+"ID127","Experimental 1",2,"Score 1","S1",2.83,2.83,NA,NA,"BASELINE",1
+"ID127","Experimental 1",2,"Score 1","S1",2.84,2.83,0.01,0.3533568905,"WEEK 24",2
+"ID127","Experimental 1",2,"Score 1","S1",2.73,2.83,-0.1,-3.533568905,"WEEK 36",3
+"ID127","Experimental 1",2,"Score 1","S1",2.62,2.83,-0.21,-7.4204947,"WEEK 36",3
+"ID127","Experimental 1",2,"Score 1","S1",2.29,2.83,-0.54,-19.08127208,"WEEK 52",4
+"ID127","Experimental 1",2,"Score 1","S1",2.51,2.83,-0.32,-11.30742049,"WEEK 52",4
+"ID127","Experimental 1",2,"Score 2","S2",3.61,3.61,NA,NA,"BASELINE",1
+"ID127","Experimental 1",2,"Score 2","S2",3.41,3.61,-0.2,-5.540166205,"WEEK 24",2
+"ID127","Experimental 1",2,"Score 2","S2",3.33,3.61,-0.28,-7.756232687,"WEEK 36",3
+"ID127","Experimental 1",2,"Score 2","S2",3.18,3.61,-0.43,-11.91135734,"WEEK 36",3
+"ID127","Experimental 1",2,"Score 2","S2",2.88,3.61,-0.73,-20.22160665,"WEEK 52",4
+"ID127","Experimental 1",2,"Score 2","S2",3.03,3.61,-0.58,-16.06648199,"WEEK 52",4
+"ID128","Experimental 2",3,"Score 1","S1",2.17,2.17,NA,NA,"BASELINE",1
+"ID128","Experimental 2",3,"Score 1","S1",1.81,2.17,-0.36,-16.58986175,"WEEK 24",2
+"ID128","Experimental 2",3,"Score 1","S1",1.87,2.17,-0.3,-13.82488479,"WEEK 36",3
+"ID128","Experimental 2",3,"Score 1","S1",1.89,2.17,-0.28,-12.90322581,"WEEK 52",4
+"ID128","Experimental 2",3,"Score 2","S2",3.08,3.08,NA,NA,"BASELINE",1
+"ID128","Experimental 2",3,"Score 2","S2",2.01,3.08,-1.07,-34.74025974,"WEEK 24",2
+"ID128","Experimental 2",3,"Score 2","S2",2.09,3.08,-0.99,-32.14285714,"WEEK 36",3
+"ID128","Experimental 2",3,"Score 2","S2",2.12,3.08,-0.96,-31.16883117,"WEEK 52",4
+"ID129","Placebo",1,"Score 1","S1",1.37,1.37,NA,NA,"BASELINE",1
+"ID129","Placebo",1,"Score 1","S1",1.55,1.37,0.18,13.138686131,"WEEK 24",2
+"ID129","Placebo",1,"Score 1","S1",1.52,1.37,0.15,10.948905109,"WEEK 24",2
+"ID129","Placebo",1,"Score 1","S1",1.56,1.37,0.19,13.868613139,"WEEK 24",2
+"ID129","Placebo",1,"Score 1","S1",1.59,1.37,0.22,16.058394161,"WEEK 24",2
+"ID129","Placebo",1,"Score 1","S1",1.45,1.37,0.08,5.8394160584,"WEEK 52",4
+"ID129","Placebo",1,"Score 2","S2",1.78,1.78,NA,NA,"BASELINE",1
+"ID129","Placebo",1,"Score 2","S2",1.92,1.78,0.14,7.8651685393,"WEEK 24",2
+"ID129","Placebo",1,"Score 2","S2",1.88,1.78,0.1,5.6179775281,"WEEK 24",2
+"ID129","Placebo",1,"Score 2","S2",1.93,1.78,0.15,8.4269662921,"WEEK 24",2
+"ID129","Placebo",1,"Score 2","S2",2.02,1.78,0.24,13.483146067,"WEEK 24",2
+"ID129","Placebo",1,"Score 2","S2",1.91,1.78,0.13,7.3033707865,"WEEK 36",3
+"ID129","Placebo",1,"Score 2","S2",1.85,1.78,0.07,3.9325842697,"WEEK 52",4
+"ID130","Placebo",1,"Score 1","S1",1.45,1.45,NA,NA,"BASELINE",1
+"ID130","Placebo",1,"Score 2","S2",1.76,1.76,NA,NA,"BASELINE",1
+"ID131","Experimental 1",2,"Score 1","S1",1.55,1.55,NA,NA,"BASELINE",1
+"ID131","Experimental 1",2,"Score 1","S1",1.59,1.55,0.04,2.5806451613,"WEEK 24",2
+"ID131","Experimental 1",2,"Score 1","S1",1.43,1.55,-0.12,-7.741935484,"WEEK 52",4
+"ID131","Experimental 1",2,"Score 2","S2",1.9,1.9,NA,NA,"BASELINE",1
+"ID131","Experimental 1",2,"Score 2","S2",1.96,1.9,0.06,3.1578947368,"WEEK 24",2
+"ID131","Experimental 1",2,"Score 2","S2",1.97,1.9,0.07,3.6842105263,"WEEK 36",3
+"ID131","Experimental 1",2,"Score 2","S2",1.7,1.9,-0.2,-10.52631579,"WEEK 52",4
+"ID132","Experimental 1",2,"Score 1","S1",1.42,1.42,NA,NA,"BASELINE",1
+"ID132","Experimental 1",2,"Score 1","S1",1.77,1.42,0.35,24.647887324,"WEEK 24",2
+"ID132","Experimental 1",2,"Score 1","S1",1.54,1.42,0.12,8.4507042254,"WEEK 36",3
+"ID132","Experimental 1",2,"Score 1","S1",1.42,1.42,0,0,"WEEK 52",4
+"ID132","Experimental 1",2,"Score 2","S2",1.83,1.83,NA,NA,"BASELINE",1
+"ID132","Experimental 1",2,"Score 2","S2",2.11,1.83,0.28,15.300546448,"WEEK 24",2
+"ID132","Experimental 1",2,"Score 2","S2",1.81,1.83,-0.02,-1.092896175,"WEEK 36",3
+"ID132","Experimental 1",2,"Score 2","S2",1.59,1.83,-0.24,-13.1147541,"WEEK 52",4
+"ID133","Experimental 1",2,"Score 1","S1",1.75,1.75,NA,NA,"BASELINE",1
+"ID133","Experimental 1",2,"Score 1","S1",1.75,1.75,0,0,"WEEK 24",2
+"ID133","Experimental 1",2,"Score 1","S1",1.71,1.75,-0.04,-2.285714286,"WEEK 36",3
+"ID133","Experimental 1",2,"Score 2","S2",2.16,2.16,NA,NA,"BASELINE",1
+"ID133","Experimental 1",2,"Score 2","S2",2.08,2.16,-0.08,-3.703703704,"WEEK 24",2
+"ID133","Experimental 1",2,"Score 2","S2",2.05,2.16,-0.11,-5.092592593,"WEEK 36",3
+"ID133","Experimental 1",2,"Score 2","S2",2.01,2.16,-0.15,-6.944444444,"WEEK 52",4
+"ID134","Experimental 1",2,"Score 1","S1",2.13,2.13,NA,NA,"BASELINE",1
+"ID134","Experimental 1",2,"Score 1","S1",2.22,2.13,0.09,4.2253521127,"WEEK 24",2
+"ID134","Experimental 1",2,"Score 1","S1",2.06,2.13,-0.07,-3.286384977,"WEEK 36",3
+"ID134","Experimental 1",2,"Score 1","S1",1.91,2.13,-0.22,-10.3286385,"WEEK 52",4
+"ID134","Experimental 1",2,"Score 2","S2",2.44,2.44,NA,NA,"BASELINE",1
+"ID134","Experimental 1",2,"Score 2","S2",2.54,2.44,0.1,4.0983606557,"WEEK 24",2
+"ID134","Experimental 1",2,"Score 2","S2",2.41,2.44,-0.03,-1.229508197,"WEEK 36",3
+"ID134","Experimental 1",2,"Score 2","S2",2.14,2.44,-0.3,-12.29508197,"WEEK 52",4
+"ID135","Placebo",1,"Score 1","S1",1.35,1.35,NA,NA,"BASELINE",1
+"ID135","Placebo",1,"Score 1","S1",1.36,1.35,0.01,0.7407407407,"WEEK 24",2
+"ID135","Placebo",1,"Score 1","S1",1.32,1.35,-0.03,-2.222222222,"WEEK 36",3
+"ID135","Placebo",1,"Score 1","S1",1.07,1.35,-0.28,-20.74074074,"WEEK 52",4
+"ID135","Placebo",1,"Score 2","S2",1.45,1.45,NA,NA,"BASELINE",1
+"ID135","Placebo",1,"Score 2","S2",1.44,1.45,-0.01,-0.689655172,"WEEK 24",2
+"ID135","Placebo",1,"Score 2","S2",1.38,1.45,-0.07,-4.827586207,"WEEK 36",3
+"ID135","Placebo",1,"Score 2","S2",1.15,1.45,-0.3,-20.68965517,"WEEK 52",4
+"ID136","Experimental 1",2,"Score 1","S1",1.67,1.67,NA,NA,"BASELINE",1
+"ID136","Experimental 1",2,"Score 1","S1",1.69,1.67,0.02,1.1976047904,"WEEK 24",2
+"ID136","Experimental 1",2,"Score 1","S1",1.8,1.67,0.13,7.7844311377,"WEEK 36",3
+"ID136","Experimental 1",2,"Score 1","S1",1.72,1.67,0.05,2.994011976,"WEEK 52",4
+"ID136","Experimental 1",2,"Score 2","S2",1.87,1.87,NA,NA,"BASELINE",1
+"ID136","Experimental 1",2,"Score 2","S2",1.91,1.87,0.04,2.1390374332,"WEEK 24",2
+"ID136","Experimental 1",2,"Score 2","S2",2,1.87,0.13,6.9518716578,"WEEK 36",3
+"ID136","Experimental 1",2,"Score 2","S2",1.99,1.87,0.12,6.4171122995,"WEEK 52",4
+"ID137","Placebo",1,"Score 1","S1",3.07,3.07,NA,NA,"BASELINE",1
+"ID137","Placebo",1,"Score 1","S1",2.96,3.07,-0.11,-3.583061889,"WEEK 24",2
+"ID137","Placebo",1,"Score 1","S1",2.97,3.07,-0.1,-3.25732899,"WEEK 36",3
+"ID137","Placebo",1,"Score 1","S1",2.73,3.07,-0.34,-11.07491857,"WEEK 52",4
+"ID137","Placebo",1,"Score 2","S2",3.7,3.7,NA,NA,"BASELINE",1
+"ID137","Placebo",1,"Score 2","S2",3.69,3.7,-0.01,-0.27027027,"WEEK 24",2
+"ID137","Placebo",1,"Score 2","S2",3.53,3.7,-0.17,-4.594594595,"WEEK 36",3
+"ID137","Placebo",1,"Score 2","S2",3.23,3.7,-0.47,-12.7027027,"WEEK 52",4
+"ID138","Experimental 2",3,"Score 1","S1",2.32,2.32,NA,NA,"BASELINE",1
+"ID138","Experimental 2",3,"Score 1","S1",2.29,2.32,-0.03,-1.293103448,"WEEK 24",2
+"ID138","Experimental 2",3,"Score 1","S1",2.31,2.32,-0.01,-0.431034483,"WEEK 52",4
+"ID138","Experimental 2",3,"Score 2","S2",3.32,3.32,NA,NA,"BASELINE",1
+"ID138","Experimental 2",3,"Score 2","S2",3.16,3.32,-0.16,-4.819277108,"WEEK 24",2
+"ID138","Experimental 2",3,"Score 2","S2",3.07,3.32,-0.25,-7.530120482,"WEEK 36",3
+"ID138","Experimental 2",3,"Score 2","S2",3.2,3.32,-0.12,-3.614457831,"WEEK 52",4
+"ID139","Experimental 2",3,"Score 1","S1",2.77,2.77,NA,NA,"BASELINE",1
+"ID139","Experimental 2",3,"Score 1","S1",2.94,2.77,0.17,6.1371841155,"WEEK 24",2
+"ID139","Experimental 2",3,"Score 1","S1",3.01,2.77,0.24,8.6642599278,"WEEK 36",3
+"ID139","Experimental 2",3,"Score 1","S1",2.38,2.77,-0.39,-14.07942238,"WEEK 52",4
+"ID139","Experimental 2",3,"Score 2","S2",3.62,3.62,NA,NA,"BASELINE",1
+"ID139","Experimental 2",3,"Score 2","S2",3.68,3.62,0.06,1.6574585635,"WEEK 24",2
+"ID139","Experimental 2",3,"Score 2","S2",3.64,3.62,0.02,0.5524861878,"WEEK 36",3
+"ID140","Experimental 1",2,"Score 1","S1",2.56,2.56,NA,NA,"BASELINE",1
+"ID140","Experimental 1",2,"Score 2","S2",3.27,3.27,NA,NA,"BASELINE",1
+"ID141","Experimental 2",3,"Score 1","S1",1.41,1.41,NA,NA,"BASELINE",1
+"ID141","Experimental 2",3,"Score 1","S1",1.45,1.41,0.04,2.8368794326,"WEEK 24",2
+"ID141","Experimental 2",3,"Score 1","S1",1.54,1.41,0.13,9.219858156,"WEEK 36",3
+"ID141","Experimental 2",3,"Score 1","S1",1.52,1.41,0.11,7.8014184397,"WEEK 52",4
+"ID141","Experimental 2",3,"Score 2","S2",1.97,1.97,NA,NA,"BASELINE",1
+"ID141","Experimental 2",3,"Score 2","S2",2,1.97,0.03,1.5228426396,"WEEK 24",2
+"ID141","Experimental 2",3,"Score 2","S2",2.1,1.97,0.13,6.5989847716,"WEEK 36",3
+"ID141","Experimental 2",3,"Score 2","S2",2.03,1.97,0.06,3.0456852792,"WEEK 52",4
+"ID142","Placebo",1,"Score 1","S1",3.27,3.27,NA,NA,"BASELINE",1
+"ID142","Placebo",1,"Score 1","S1",3.08,3.27,-0.19,-5.810397554,"WEEK 24",2
+"ID142","Placebo",1,"Score 1","S1",3.2,3.27,-0.07,-2.140672783,"WEEK 36",3
+"ID142","Placebo",1,"Score 1","S1",3.14,3.27,-0.13,-3.975535168,"WEEK 52",4
+"ID142","Placebo",1,"Score 2","S2",3.91,3.91,NA,NA,"BASELINE",1
+"ID142","Placebo",1,"Score 2","S2",3.83,3.91,-0.08,-2.046035806,"WEEK 24",2
+"ID142","Placebo",1,"Score 2","S2",3.81,3.91,-0.1,-2.557544757,"WEEK 36",3
+"ID142","Placebo",1,"Score 2","S2",3.88,3.91,-0.03,-0.767263427,"WEEK 52",4
+"ID143","Experimental 1",2,"Score 1","S1",1.14,1.14,NA,NA,"BASELINE",1
+"ID143","Experimental 1",2,"Score 1","S1",1.15,1.14,0.01,0.8771929825,"WEEK 24",2
+"ID143","Experimental 1",2,"Score 1","S1",1.12,1.14,-0.02,-1.754385965,"WEEK 36",3
+"ID143","Experimental 1",2,"Score 1","S1",0.99,1.14,-0.15,-13.15789474,"WEEK 52",4
+"ID143","Experimental 1",2,"Score 2","S2",1.5,1.5,NA,NA,"BASELINE",1
+"ID143","Experimental 1",2,"Score 2","S2",1.57,1.5,0.07,4.6666666667,"WEEK 24",2
+"ID143","Experimental 1",2,"Score 2","S2",1.43,1.5,-0.07,-4.666666667,"WEEK 36",3
+"ID143","Experimental 1",2,"Score 2","S2",1.3,1.5,-0.2,-13.33333333,"WEEK 52",4
+"ID144","Experimental 1",2,"Score 1","S1",1.39,1.39,NA,NA,"BASELINE",1
+"ID144","Experimental 1",2,"Score 2","S2",1.6,1.6,NA,NA,"BASELINE",1
+"ID145","Placebo",1,"Score 1","S1",1.25,1.25,NA,NA,"BASELINE",1
+"ID145","Placebo",1,"Score 1","S1",1.41,1.25,0.16,12.8,"WEEK 24",2
+"ID145","Placebo",1,"Score 1","S1",1.33,1.25,0.08,6.4,"WEEK 36",3
+"ID145","Placebo",1,"Score 1","S1",1.34,1.25,0.09,7.2,"WEEK 52",4
+"ID145","Placebo",1,"Score 2","S2",1.46,1.46,NA,NA,"BASELINE",1
+"ID145","Placebo",1,"Score 2","S2",1.68,1.46,0.22,15.068493151,"WEEK 24",2
+"ID145","Placebo",1,"Score 2","S2",1.58,1.46,0.12,8.2191780822,"WEEK 36",3
+"ID145","Placebo",1,"Score 2","S2",1.61,1.46,0.15,10.273972603,"WEEK 52",4
+"ID146","Experimental 1",2,"Score 1","S1",1.12,1.12,NA,NA,"BASELINE",1
+"ID146","Experimental 1",2,"Score 1","S1",1.19,1.12,0.07,6.25,"WEEK 24",2
+"ID146","Experimental 1",2,"Score 1","S1",1.12,1.12,0,0,"WEEK 36",3
+"ID146","Experimental 1",2,"Score 1","S1",1.15,1.12,0.03,2.6785714286,"WEEK 52",4
+"ID146","Experimental 1",2,"Score 2","S2",1.4,1.4,NA,NA,"BASELINE",1
+"ID146","Experimental 1",2,"Score 2","S2",1.46,1.4,0.06,4.2857142857,"WEEK 24",2
+"ID146","Experimental 1",2,"Score 2","S2",1.39,1.4,-0.01,-0.714285714,"WEEK 36",3
+"ID146","Experimental 1",2,"Score 2","S2",1.45,1.4,0.05,3.5714285714,"WEEK 52",4
+"ID147","Experimental 1",2,"Score 1","S1",1.43,1.43,NA,NA,"BASELINE",1
+"ID147","Experimental 1",2,"Score 1","S1",1.41,1.43,-0.02,-1.398601399,"WEEK 24",2
+"ID147","Experimental 1",2,"Score 1","S1",1.34,1.43,-0.09,-6.293706294,"WEEK 36",3
+"ID147","Experimental 1",2,"Score 2","S2",2.03,2.03,NA,NA,"BASELINE",1
+"ID147","Experimental 1",2,"Score 2","S2",2.06,2.03,0.03,1.4778325123,"WEEK 24",2
+"ID147","Experimental 1",2,"Score 2","S2",1.87,2.03,-0.16,-7.881773399,"WEEK 36",3
+"ID148","Placebo",1,"Score 1","S1",1.84,1.84,NA,NA,"BASELINE",1
+"ID148","Placebo",1,"Score 1","S1",1.83,1.84,-0.01,-0.543478261,"WEEK 24",2
+"ID148","Placebo",1,"Score 1","S1",1.81,1.84,-0.03,-1.630434783,"WEEK 36",3
+"ID148","Placebo",1,"Score 1","S1",1.9,1.84,0.06,3.2608695652,"WEEK 52",4
+"ID148","Placebo",1,"Score 2","S2",2.66,2.66,NA,NA,"BASELINE",1
+"ID148","Placebo",1,"Score 2","S2",2.73,2.66,0.07,2.6315789474,"WEEK 24",2
+"ID148","Placebo",1,"Score 2","S2",2.68,2.66,0.02,0.7518796992,"WEEK 36",3
+"ID148","Placebo",1,"Score 2","S2",2.76,2.66,0.1,3.7593984962,"WEEK 52",4
+"ID149","Experimental 2",3,"Score 1","S1",1.75,1.75,NA,NA,"BASELINE",1
+"ID149","Experimental 2",3,"Score 1","S1",1.96,1.75,0.21,12,"WEEK 24",2
+"ID149","Experimental 2",3,"Score 1","S1",1.85,1.75,0.1,5.7142857143,"WEEK 36",3
+"ID149","Experimental 2",3,"Score 1","S1",1.97,1.75,0.22,12.571428571,"WEEK 52",4
+"ID149","Experimental 2",3,"Score 2","S2",2.46,2.46,NA,NA,"BASELINE",1
+"ID149","Experimental 2",3,"Score 2","S2",2.89,2.46,0.43,17.479674797,"WEEK 24",2
+"ID149","Experimental 2",3,"Score 2","S2",2.69,2.46,0.23,9.3495934959,"WEEK 36",3
+"ID149","Experimental 2",3,"Score 2","S2",2.77,2.46,0.31,12.601626016,"WEEK 52",4
+"ID150","Experimental 1",2,"Score 1","S1",1.64,1.64,NA,NA,"BASELINE",1
+"ID150","Experimental 1",2,"Score 1","S1",1.71,1.64,0.07,4.2682926829,"WEEK 24",2
+"ID150","Experimental 1",2,"Score 1","S1",1.73,1.64,0.09,5.487804878,"WEEK 36",3
+"ID150","Experimental 1",2,"Score 1","S1",1.59,1.64,-0.05,-3.048780488,"WEEK 52",4
+"ID150","Experimental 1",2,"Score 2","S2",1.83,1.83,NA,NA,"BASELINE",1
+"ID150","Experimental 1",2,"Score 2","S2",1.85,1.83,0.02,1.0928961749,"WEEK 24",2
+"ID150","Experimental 1",2,"Score 2","S2",1.86,1.83,0.03,1.6393442623,"WEEK 36",3
+"ID150","Experimental 1",2,"Score 2","S2",1.76,1.83,-0.07,-3.825136612,"WEEK 52",4
+"ID151","Experimental 1",2,"Score 1","S1",2.55,2.55,NA,NA,"BASELINE",1
+"ID151","Experimental 1",2,"Score 1","S1",2.42,2.55,-0.13,-5.098039216,"WEEK 24",2
+"ID151","Experimental 1",2,"Score 1","S1",2.45,2.55,-0.1,-3.921568627,"WEEK 36",3
+"ID151","Experimental 1",2,"Score 1","S1",2.48,2.55,-0.07,-2.745098039,"WEEK 52",4
+"ID151","Experimental 1",2,"Score 2","S2",3.08,3.08,NA,NA,"BASELINE",1
+"ID151","Experimental 1",2,"Score 2","S2",2.85,3.08,-0.23,-7.467532468,"WEEK 24",2
+"ID151","Experimental 1",2,"Score 2","S2",2.86,3.08,-0.22,-7.142857143,"WEEK 36",3
+"ID151","Experimental 1",2,"Score 2","S2",2.99,3.08,-0.09,-2.922077922,"WEEK 52",4
+"ID152","Experimental 2",3,"Score 1","S1",1.6,1.6,NA,NA,"BASELINE",1
+"ID152","Experimental 2",3,"Score 1","S1",1.59,1.6,-0.01,-0.625,"WEEK 24",2
+"ID152","Experimental 2",3,"Score 1","S1",1.61,1.6,0.01,0.625,"WEEK 36",3
+"ID152","Experimental 2",3,"Score 1","S1",1.65,1.6,0.05,3.125,"WEEK 52",4
+"ID152","Experimental 2",3,"Score 2","S2",2.02,2.02,NA,NA,"BASELINE",1
+"ID152","Experimental 2",3,"Score 2","S2",2,2.02,-0.02,-0.99009901,"WEEK 24",2
+"ID152","Experimental 2",3,"Score 2","S2",2.01,2.02,-0.01,-0.495049505,"WEEK 36",3
+"ID152","Experimental 2",3,"Score 2","S2",2.02,2.02,0,0,"WEEK 52",4
+"ID153","Experimental 2",3,"Score 1","S1",2.24,2.24,NA,NA,"BASELINE",1
+"ID153","Experimental 2",3,"Score 1","S1",2.15,2.24,-0.09,-4.017857143,"WEEK 24",2
+"ID153","Experimental 2",3,"Score 1","S1",1.89,2.24,-0.35,-15.625,"WEEK 36",3
+"ID153","Experimental 2",3,"Score 2","S2",2.71,2.71,NA,NA,"BASELINE",1
+"ID153","Experimental 2",3,"Score 2","S2",2.67,2.71,-0.04,-1.47601476,"WEEK 24",2
+"ID153","Experimental 2",3,"Score 2","S2",2.26,2.71,-0.45,-16.60516605,"WEEK 36",3
+"ID154","Placebo",1,"Score 1","S1",2.84,2.84,NA,NA,"BASELINE",1
+"ID154","Placebo",1,"Score 1","S1",2.82,2.84,-0.02,-0.704225352,"WEEK 24",2
+"ID154","Placebo",1,"Score 1","S1",2.77,2.84,-0.07,-2.464788732,"WEEK 36",3
+"ID154","Placebo",1,"Score 1","S1",2.73,2.84,-0.11,-3.873239437,"WEEK 52",4
+"ID154","Placebo",1,"Score 2","S2",3.44,3.44,NA,NA,"BASELINE",1
+"ID154","Placebo",1,"Score 2","S2",3.24,3.44,-0.2,-5.813953488,"WEEK 24",2
+"ID154","Placebo",1,"Score 2","S2",3.26,3.44,-0.18,-5.23255814,"WEEK 36",3
+"ID154","Placebo",1,"Score 2","S2",3.14,3.44,-0.3,-8.720930233,"WEEK 52",4
+"ID155","Placebo",1,"Score 1","S1",1.71,1.71,NA,NA,"BASELINE",1
+"ID155","Placebo",1,"Score 1","S1",1.45,1.71,-0.26,-15.20467836,"WEEK 24",2
+"ID155","Placebo",1,"Score 1","S1",1.66,1.71,-0.05,-2.923976608,"WEEK 36",3
+"ID155","Placebo",1,"Score 1","S1",1.47,1.71,-0.24,-14.03508772,"WEEK 52",4
+"ID155","Placebo",1,"Score 2","S2",2.52,2.52,NA,NA,"BASELINE",1
+"ID155","Placebo",1,"Score 2","S2",2.29,2.52,-0.23,-9.126984127,"WEEK 24",2
+"ID155","Placebo",1,"Score 2","S2",2.41,2.52,-0.11,-4.365079365,"WEEK 36",3
+"ID155","Placebo",1,"Score 2","S2",1.97,2.52,-0.55,-21.82539683,"WEEK 52",4
+"ID156","Placebo",1,"Score 1","S1",2.35,2.35,NA,NA,"BASELINE",1
+"ID156","Placebo",1,"Score 1","S1",2.27,2.35,-0.08,-3.404255319,"WEEK 24",2
+"ID156","Placebo",1,"Score 1","S1",2.36,2.35,0.01,0.4255319149,"WEEK 36",3
+"ID156","Placebo",1,"Score 1","S1",2.09,2.35,-0.26,-11.06382979,"WEEK 52",4
+"ID156","Placebo",1,"Score 2","S2",2.84,2.84,NA,NA,"BASELINE",1
+"ID156","Placebo",1,"Score 2","S2",2.71,2.84,-0.13,-4.577464789,"WEEK 24",2
+"ID156","Placebo",1,"Score 2","S2",2.86,2.84,0.02,0.7042253521,"WEEK 36",3
+"ID156","Placebo",1,"Score 2","S2",2.59,2.84,-0.25,-8.802816901,"WEEK 52",4
+"ID157","Experimental 2",3,"Score 1","S1",2.76,2.76,NA,NA,"BASELINE",1
+"ID157","Experimental 2",3,"Score 1","S1",2.79,2.76,0.03,1.0869565217,"WEEK 24",2
+"ID157","Experimental 2",3,"Score 1","S1",2.72,2.76,-0.04,-1.449275362,"WEEK 36",3
+"ID157","Experimental 2",3,"Score 1","S1",2.63,2.76,-0.13,-4.710144928,"WEEK 52",4
+"ID157","Experimental 2",3,"Score 2","S2",3.64,3.64,NA,NA,"BASELINE",1
+"ID157","Experimental 2",3,"Score 2","S2",3.53,3.64,-0.11,-3.021978022,"WEEK 24",2
+"ID157","Experimental 2",3,"Score 2","S2",3.48,3.64,-0.16,-4.395604396,"WEEK 36",3
+"ID157","Experimental 2",3,"Score 2","S2",3.41,3.64,-0.23,-6.318681319,"WEEK 52",4
+"ID158","Experimental 1",2,"Score 1","S1",1.57,1.57,NA,NA,"BASELINE",1
+"ID158","Experimental 1",2,"Score 1","S1",1.51,1.57,-0.06,-3.821656051,"WEEK 24",2
+"ID158","Experimental 1",2,"Score 1","S1",1.44,1.57,-0.13,-8.280254777,"WEEK 36",3
+"ID158","Experimental 1",2,"Score 1","S1",1.35,1.57,-0.22,-14.01273885,"WEEK 52",4
+"ID158","Experimental 1",2,"Score 2","S2",2.03,2.03,NA,NA,"BASELINE",1
+"ID158","Experimental 1",2,"Score 2","S2",1.92,2.03,-0.11,-5.418719212,"WEEK 24",2
+"ID158","Experimental 1",2,"Score 2","S2",1.86,2.03,-0.17,-8.374384236,"WEEK 36",3
+"ID158","Experimental 1",2,"Score 2","S2",1.76,2.03,-0.27,-13.30049261,"WEEK 52",4
+"ID159","Experimental 2",3,"Score 1","S1",2.45,2.45,NA,NA,"BASELINE",1
+"ID159","Experimental 2",3,"Score 1","S1",2.34,2.45,-0.11,-4.489795918,"WEEK 24",2
+"ID159","Experimental 2",3,"Score 1","S1",2.4,2.45,-0.05,-2.040816327,"WEEK 36",3
+"ID159","Experimental 2",3,"Score 1","S1",2.55,2.45,0.1,4.0816326531,"WEEK 52",4
+"ID159","Experimental 2",3,"Score 2","S2",2.96,2.96,NA,NA,"BASELINE",1
+"ID159","Experimental 2",3,"Score 2","S2",2.9,2.96,-0.06,-2.027027027,"WEEK 24",2
+"ID159","Experimental 2",3,"Score 2","S2",2.81,2.96,-0.15,-5.067567568,"WEEK 36",3
+"ID159","Experimental 2",3,"Score 2","S2",3.05,2.96,0.09,3.0405405405,"WEEK 52",4
+"ID160","Experimental 1",2,"Score 1","S1",2.89,2.89,NA,NA,"BASELINE",1
+"ID160","Experimental 1",2,"Score 1","S1",2.43,2.89,-0.46,-15.91695502,"WEEK 24",2
+"ID160","Experimental 1",2,"Score 1","S1",2.34,2.89,-0.55,-19.03114187,"WEEK 36",3
+"ID160","Experimental 1",2,"Score 1","S1",2.41,2.89,-0.48,-16.60899654,"WEEK 52",4
+"ID160","Experimental 1",2,"Score 2","S2",3.48,3.48,NA,NA,"BASELINE",1
+"ID160","Experimental 1",2,"Score 2","S2",3.03,3.48,-0.45,-12.93103448,"WEEK 24",2
+"ID160","Experimental 1",2,"Score 2","S2",2.92,3.48,-0.56,-16.09195402,"WEEK 36",3
+"ID160","Experimental 1",2,"Score 2","S2",3,3.48,-0.48,-13.79310345,"WEEK 52",4
+"ID161","Placebo",1,"Score 1","S1",1.26,1.26,NA,NA,"BASELINE",1
+"ID161","Placebo",1,"Score 2","S2",1.5,1.5,NA,NA,"BASELINE",1
+"ID162","Placebo",1,"Score 1","S1",1.41,1.41,NA,NA,"BASELINE",1
+"ID162","Placebo",1,"Score 2","S2",1.68,1.68,NA,NA,"BASELINE",1
+"ID163","Experimental 1",2,"Score 1","S1",1.76,1.76,NA,NA,"BASELINE",1
+"ID163","Experimental 1",2,"Score 1","S1",1.82,1.76,0.06,3.4090909091,"WEEK 24",2
+"ID163","Experimental 1",2,"Score 1","S1",1.76,1.76,0,0,"WEEK 36",3
+"ID163","Experimental 1",2,"Score 1","S1",1.68,1.76,-0.08,-4.545454545,"WEEK 52",4
+"ID163","Experimental 1",2,"Score 2","S2",2.56,2.56,NA,NA,"BASELINE",1
+"ID163","Experimental 1",2,"Score 2","S2",2.41,2.56,-0.15,-5.859375,"WEEK 24",2
+"ID163","Experimental 1",2,"Score 2","S2",2.34,2.56,-0.22,-8.59375,"WEEK 36",3
+"ID163","Experimental 1",2,"Score 2","S2",2.47,2.56,-0.09,-3.515625,"WEEK 52",4
+"ID164","Experimental 2",3,"Score 1","S1",1.83,1.83,NA,NA,"BASELINE",1
+"ID164","Experimental 2",3,"Score 1","S1",1.93,1.83,0.1,5.4644808743,"WEEK 24",2
+"ID164","Experimental 2",3,"Score 1","S1",1.78,1.83,-0.05,-2.732240437,"WEEK 36",3
+"ID164","Experimental 2",3,"Score 1","S1",1.61,1.83,-0.22,-12.02185792,"WEEK 52",4
+"ID164","Experimental 2",3,"Score 2","S2",2.5,2.5,NA,NA,"BASELINE",1
+"ID164","Experimental 2",3,"Score 2","S2",2.59,2.5,0.09,3.6,"WEEK 24",2
+"ID164","Experimental 2",3,"Score 2","S2",2.43,2.5,-0.07,-2.8,"WEEK 36",3
+"ID164","Experimental 2",3,"Score 2","S2",2.27,2.5,-0.23,-9.2,"WEEK 52",4
+"ID165","Experimental 1",2,"Score 1","S1",0.74,0.74,NA,NA,"BASELINE",1
+"ID165","Experimental 1",2,"Score 1","S1",0.64,0.74,-0.1,-13.51351351,"WEEK 24",2
+"ID165","Experimental 1",2,"Score 1","S1",0.74,0.74,0,0,"WEEK 36",3
+"ID165","Experimental 1",2,"Score 1","S1",0.75,0.74,0.01,1.3513513514,"WEEK 52",4
+"ID165","Experimental 1",2,"Score 2","S2",0.92,0.92,NA,NA,"BASELINE",1
+"ID165","Experimental 1",2,"Score 2","S2",0.8,0.92,-0.12,-13.04347826,"WEEK 24",2
+"ID165","Experimental 1",2,"Score 2","S2",0.98,0.92,0.06,6.5217391304,"WEEK 36",3
+"ID165","Experimental 1",2,"Score 2","S2",0.92,0.92,0,0,"WEEK 52",4
+"ID166","Experimental 1",2,"Score 1","S1",3.37,3.37,NA,NA,"BASELINE",1
+"ID166","Experimental 1",2,"Score 1","S1",3.23,3.37,-0.14,-4.154302671,"WEEK 24",2
+"ID166","Experimental 1",2,"Score 1","S1",3.28,3.37,-0.09,-2.670623145,"WEEK 36",3
+"ID166","Experimental 1",2,"Score 1","S1",3.27,3.37,-0.1,-2.96735905,"WEEK 52",4
+"ID166","Experimental 1",2,"Score 2","S2",3.85,3.85,NA,NA,"BASELINE",1
+"ID166","Experimental 1",2,"Score 2","S2",3.71,3.85,-0.14,-3.636363636,"WEEK 24",2
+"ID166","Experimental 1",2,"Score 2","S2",3.77,3.85,-0.08,-2.077922078,"WEEK 36",3
+"ID166","Experimental 1",2,"Score 2","S2",3.73,3.85,-0.12,-3.116883117,"WEEK 52",4
+"ID167","Placebo",1,"Score 1","S1",2.72,2.72,NA,NA,"BASELINE",1
+"ID167","Placebo",1,"Score 1","S1",2.66,2.72,-0.06,-2.205882353,"WEEK 24",2
+"ID167","Placebo",1,"Score 1","S1",2.42,2.72,-0.3,-11.02941176,"WEEK 36",3
+"ID167","Placebo",1,"Score 1","S1",2.44,2.72,-0.28,-10.29411765,"WEEK 52",4
+"ID167","Placebo",1,"Score 2","S2",3.84,3.84,NA,NA,"BASELINE",1
+"ID167","Placebo",1,"Score 2","S2",3.77,3.84,-0.07,-1.822916667,"WEEK 24",2
+"ID167","Placebo",1,"Score 2","S2",3.39,3.84,-0.45,-11.71875,"WEEK 36",3
+"ID167","Placebo",1,"Score 2","S2",3.4,3.84,-0.44,-11.45833333,"WEEK 52",4
+"ID168","Placebo",1,"Score 1","S1",0.98,0.98,NA,NA,"BASELINE",1
+"ID168","Placebo",1,"Score 1","S1",0.86,0.98,-0.12,-12.24489796,"WEEK 24",2
+"ID168","Placebo",1,"Score 1","S1",0.83,0.98,-0.15,-15.30612245,"WEEK 36",3
+"ID168","Placebo",1,"Score 2","S2",1.21,1.21,NA,NA,"BASELINE",1
+"ID168","Placebo",1,"Score 2","S2",1.07,1.21,-0.14,-11.57024793,"WEEK 24",2
+"ID168","Placebo",1,"Score 2","S2",1.01,1.21,-0.2,-16.52892562,"WEEK 36",3
+"ID169","Experimental 1",2,"Score 1","S1",1.81,1.81,NA,NA,"BASELINE",1
+"ID169","Experimental 1",2,"Score 1","S1",1.56,1.81,-0.25,-13.8121547,"WEEK 24",2
+"ID169","Experimental 1",2,"Score 1","S1",1.47,1.81,-0.34,-18.78453039,"WEEK 36",3
+"ID169","Experimental 1",2,"Score 1","S1",1.13,1.81,-0.68,-37.56906077,"WEEK 52",4
+"ID169","Experimental 1",2,"Score 2","S2",2.02,2.02,NA,NA,"BASELINE",1
+"ID169","Experimental 1",2,"Score 2","S2",1.78,2.02,-0.24,-11.88118812,"WEEK 24",2
+"ID169","Experimental 1",2,"Score 2","S2",1.71,2.02,-0.31,-15.34653465,"WEEK 36",3
+"ID169","Experimental 1",2,"Score 2","S2",1.45,2.02,-0.57,-28.21782178,"WEEK 52",4
+"ID170","Experimental 2",3,"Score 1","S1",1.88,1.88,NA,NA,"BASELINE",1
+"ID170","Experimental 2",3,"Score 1","S1",1.86,1.88,-0.02,-1.063829787,"WEEK 24",2
+"ID170","Experimental 2",3,"Score 1","S1",1.76,1.88,-0.12,-6.382978723,"WEEK 36",3
+"ID170","Experimental 2",3,"Score 1","S1",1.87,1.88,-0.01,-0.531914894,"WEEK 52",4
+"ID170","Experimental 2",3,"Score 2","S2",2.27,2.27,NA,NA,"BASELINE",1
+"ID170","Experimental 2",3,"Score 2","S2",2.29,2.27,0.02,0.8810572687,"WEEK 24",2
+"ID170","Experimental 2",3,"Score 2","S2",2.07,2.27,-0.2,-8.810572687,"WEEK 36",3
+"ID170","Experimental 2",3,"Score 2","S2",2.22,2.27,-0.05,-2.202643172,"WEEK 52",4
+"ID171","Experimental 2",3,"Score 1","S1",2.54,2.54,NA,NA,"BASELINE",1
+"ID171","Experimental 2",3,"Score 1","S1",2.29,2.54,-0.25,-9.842519685,"WEEK 24",2
+"ID171","Experimental 2",3,"Score 1","S1",2.25,2.54,-0.29,-11.41732283,"WEEK 36",3
+"ID171","Experimental 2",3,"Score 1","S1",1.05,2.54,-1.49,-58.66141732,"WEEK 52",4
+"ID171","Experimental 2",3,"Score 1","S1",2.18,2.54,-0.36,-14.17322835,"WEEK 52",4
+"ID171","Experimental 2",3,"Score 2","S2",3.05,3.05,NA,NA,"BASELINE",1
+"ID171","Experimental 2",3,"Score 2","S2",2.72,3.05,-0.33,-10.81967213,"WEEK 24",2
+"ID171","Experimental 2",3,"Score 2","S2",2.67,3.05,-0.38,-12.45901639,"WEEK 36",3
+"ID171","Experimental 2",3,"Score 2","S2",2.82,3.05,-0.23,-7.540983607,"WEEK 52",4
+"ID171","Experimental 2",3,"Score 2","S2",2.85,3.05,-0.2,-6.557377049,"WEEK 52",4
+"ID172","Placebo",1,"Score 1","S1",1.89,1.89,NA,NA,"BASELINE",1
+"ID172","Placebo",1,"Score 1","S1",1.8,1.89,-0.09,-4.761904762,"WEEK 24",2
+"ID172","Placebo",1,"Score 1","S1",2.05,1.89,0.16,8.4656084656,"WEEK 36",3
+"ID172","Placebo",1,"Score 1","S1",1.91,1.89,0.02,1.0582010582,"WEEK 52",4
+"ID172","Placebo",1,"Score 1","S1",2.97,1.89,1.08,57.142857143,"WEEK 52",4
+"ID172","Placebo",1,"Score 2","S2",2.17,2.17,NA,NA,"BASELINE",1
+"ID172","Placebo",1,"Score 2","S2",2.16,2.17,-0.01,-0.460829493,"WEEK 24",2
+"ID172","Placebo",1,"Score 2","S2",2.42,2.17,0.25,11.520737327,"WEEK 36",3
+"ID172","Placebo",1,"Score 2","S2",2.14,2.17,-0.03,-1.382488479,"WEEK 52",4
+"ID172","Placebo",1,"Score 2","S2",3.24,2.17,1.07,49.30875576,"WEEK 52",4
+"ID173","Experimental 2",3,"Score 1","S1",1.71,1.71,NA,NA,"BASELINE",1
+"ID173","Experimental 2",3,"Score 1","S1",1.69,1.71,-0.02,-1.169590643,"WEEK 24",2
+"ID173","Experimental 2",3,"Score 1","S1",1.59,1.71,-0.12,-7.01754386,"WEEK 36",3
+"ID173","Experimental 2",3,"Score 1","S1",1.62,1.71,-0.09,-5.263157895,"WEEK 52",4
+"ID173","Experimental 2",3,"Score 2","S2",2.39,2.39,NA,NA,"BASELINE",1
+"ID173","Experimental 2",3,"Score 2","S2",2.31,2.39,-0.08,-3.347280335,"WEEK 24",2
+"ID173","Experimental 2",3,"Score 2","S2",2.2,2.39,-0.19,-7.949790795,"WEEK 36",3
+"ID173","Experimental 2",3,"Score 2","S2",2.22,2.39,-0.17,-7.112970711,"WEEK 52",4
+"ID174","Experimental 1",2,"Score 1","S1",1.8,1.8,NA,NA,"BASELINE",1
+"ID174","Experimental 1",2,"Score 1","S1",1.61,1.8,-0.19,-10.55555556,"WEEK 24",2
+"ID174","Experimental 1",2,"Score 1","S1",1.69,1.8,-0.11,-6.111111111,"WEEK 36",3
+"ID174","Experimental 1",2,"Score 1","S1",1.71,1.8,-0.09,-5,"WEEK 52",4
+"ID174","Experimental 1",2,"Score 2","S2",2.2,2.2,NA,NA,"BASELINE",1
+"ID174","Experimental 1",2,"Score 2","S2",2.02,2.2,-0.18,-8.181818182,"WEEK 24",2
+"ID174","Experimental 1",2,"Score 2","S2",2.01,2.2,-0.19,-8.636363636,"WEEK 36",3
+"ID174","Experimental 1",2,"Score 2","S2",2,2.2,-0.2,-9.090909091,"WEEK 52",4
+"ID175","Experimental 2",3,"Score 1","S1",1.36,1.36,NA,NA,"BASELINE",1
+"ID175","Experimental 2",3,"Score 2","S2",1.6,1.6,NA,NA,"BASELINE",1
+"ID176","Experimental 1",2,"Score 1","S1",2.35,2.35,NA,NA,"BASELINE",1
+"ID176","Experimental 1",2,"Score 1","S1",2.43,2.35,0.08,3.4042553191,"WEEK 24",2
+"ID176","Experimental 1",2,"Score 1","S1",2.25,2.35,-0.1,-4.255319149,"WEEK 36",3
+"ID176","Experimental 1",2,"Score 1","S1",2.4,2.35,0.05,2.1276595745,"WEEK 52",4
+"ID176","Experimental 1",2,"Score 2","S2",3.11,3.11,NA,NA,"BASELINE",1
+"ID176","Experimental 1",2,"Score 2","S2",3.07,3.11,-0.04,-1.286173633,"WEEK 24",2
+"ID176","Experimental 1",2,"Score 2","S2",2.94,3.11,-0.17,-5.466237942,"WEEK 36",3
+"ID176","Experimental 1",2,"Score 2","S2",3.04,3.11,-0.07,-2.250803859,"WEEK 52",4
+"ID177","Experimental 2",3,"Score 1","S1",2.34,2.34,NA,NA,"BASELINE",1
+"ID177","Experimental 2",3,"Score 1","S1",1.94,2.34,-0.4,-17.09401709,"WEEK 24",2
+"ID177","Experimental 2",3,"Score 1","S1",2.01,2.34,-0.33,-14.1025641,"WEEK 36",3
+"ID177","Experimental 2",3,"Score 1","S1",1.87,2.34,-0.47,-20.08547009,"WEEK 52",4
+"ID177","Experimental 2",3,"Score 2","S2",2.87,2.87,NA,NA,"BASELINE",1
+"ID177","Experimental 2",3,"Score 2","S2",2.29,2.87,-0.58,-20.20905923,"WEEK 24",2
+"ID177","Experimental 2",3,"Score 2","S2",2.33,2.87,-0.54,-18.81533101,"WEEK 36",3
+"ID177","Experimental 2",3,"Score 2","S2",2.17,2.87,-0.7,-24.3902439,"WEEK 52",4
+"ID178","Placebo",1,"Score 1","S1",2.35,2.35,NA,NA,"BASELINE",1
+"ID178","Placebo",1,"Score 1","S1",2.36,2.35,0.01,0.4255319149,"WEEK 24",2
+"ID178","Placebo",1,"Score 1","S1",2.17,2.35,-0.18,-7.659574468,"WEEK 36",3
+"ID178","Placebo",1,"Score 1","S1",2.1,2.35,-0.25,-10.63829787,"WEEK 52",4
+"ID178","Placebo",1,"Score 2","S2",2.98,2.98,NA,NA,"BASELINE",1
+"ID178","Placebo",1,"Score 2","S2",3.02,2.98,0.04,1.3422818792,"WEEK 24",2
+"ID178","Placebo",1,"Score 2","S2",2.92,2.98,-0.06,-2.013422819,"WEEK 36",3
+"ID178","Placebo",1,"Score 2","S2",2.91,2.98,-0.07,-2.348993289,"WEEK 52",4
+"ID179","Experimental 2",3,"Score 1","S1",2.11,2.11,NA,NA,"BASELINE",1
+"ID179","Experimental 2",3,"Score 1","S1",2.19,2.11,0.08,3.7914691943,"WEEK 24",2
+"ID179","Experimental 2",3,"Score 1","S1",2.21,2.11,0.1,4.7393364929,"WEEK 36",3
+"ID179","Experimental 2",3,"Score 1","S1",2.18,2.11,0.07,3.317535545,"WEEK 52",4
+"ID179","Experimental 2",3,"Score 2","S2",2.77,2.77,NA,NA,"BASELINE",1
+"ID179","Experimental 2",3,"Score 2","S2",2.85,2.77,0.08,2.8880866426,"WEEK 24",2
+"ID179","Experimental 2",3,"Score 2","S2",2.84,2.77,0.07,2.5270758123,"WEEK 36",3
+"ID179","Experimental 2",3,"Score 2","S2",2.81,2.77,0.04,1.4440433213,"WEEK 52",4
+"ID180","Placebo",1,"Score 1","S1",2.28,2.28,NA,NA,"BASELINE",1
+"ID180","Placebo",1,"Score 1","S1",2.2,2.28,-0.08,-3.50877193,"WEEK 24",2
+"ID180","Placebo",1,"Score 2","S2",3.12,3.12,NA,NA,"BASELINE",1
+"ID180","Placebo",1,"Score 2","S2",3,3.12,-0.12,-3.846153846,"WEEK 24",2
+"ID181","Experimental 1",2,"Score 1","S1",2.23,2.23,NA,NA,"BASELINE",1
+"ID181","Experimental 1",2,"Score 1","S1",2.19,2.23,-0.04,-1.793721973,"WEEK 24",2
+"ID181","Experimental 1",2,"Score 1","S1",1.92,2.23,-0.31,-13.90134529,"WEEK 36",3
+"ID181","Experimental 1",2,"Score 1","S1",1.39,2.23,-0.84,-37.66816143,"WEEK 52",4
+"ID181","Experimental 1",2,"Score 2","S2",2.44,2.44,NA,NA,"BASELINE",1
+"ID181","Experimental 1",2,"Score 2","S2",2.44,2.44,0,0,"WEEK 24",2
+"ID181","Experimental 1",2,"Score 2","S2",2.27,2.44,-0.17,-6.967213115,"WEEK 36",3
+"ID181","Experimental 1",2,"Score 2","S2",1.64,2.44,-0.8,-32.78688525,"WEEK 52",4
+"ID182","Experimental 1",2,"Score 1","S1",1.97,1.97,NA,NA,"BASELINE",1
+"ID182","Experimental 1",2,"Score 1","S1",1.59,1.97,-0.38,-19.2893401,"WEEK 24",2
+"ID182","Experimental 1",2,"Score 1","S1",2.36,1.97,0.39,19.796954315,"WEEK 36",3
+"ID182","Experimental 1",2,"Score 1","S1",2.48,1.97,0.51,25.888324873,"WEEK 52",4
+"ID182","Experimental 1",2,"Score 2","S2",2.34,2.34,NA,NA,"BASELINE",1
+"ID182","Experimental 1",2,"Score 2","S2",1.94,2.34,-0.4,-17.09401709,"WEEK 24",2
+"ID182","Experimental 1",2,"Score 2","S2",3.45,2.34,1.11,47.435897436,"WEEK 36",3
+"ID182","Experimental 1",2,"Score 2","S2",3.73,2.34,1.39,59.401709402,"WEEK 52",4
+"ID183","Experimental 2",3,"Score 1","S1",1.87,1.87,NA,NA,"BASELINE",1
+"ID183","Experimental 2",3,"Score 1","S1",1.72,1.87,-0.15,-8.021390374,"WEEK 24",2
+"ID183","Experimental 2",3,"Score 1","S1",1.76,1.87,-0.11,-5.882352941,"WEEK 36",3
+"ID183","Experimental 2",3,"Score 2","S2",2.32,2.32,NA,NA,"BASELINE",1
+"ID183","Experimental 2",3,"Score 2","S2",2.09,2.32,-0.23,-9.913793103,"WEEK 24",2
+"ID183","Experimental 2",3,"Score 2","S2",2.14,2.32,-0.18,-7.75862069,"WEEK 36",3
+"ID184","Experimental 1",2,"Score 1","S1",2.48,2.48,NA,NA,"BASELINE",1
+"ID184","Experimental 1",2,"Score 1","S1",2.19,2.48,-0.29,-11.69354839,"WEEK 24",2
+"ID184","Experimental 1",2,"Score 2","S2",2.66,2.66,NA,NA,"BASELINE",1
+"ID184","Experimental 1",2,"Score 2","S2",2.36,2.66,-0.3,-11.27819549,"WEEK 24",2
+"ID185","Experimental 1",2,"Score 1","S1",2.5,2.5,NA,NA,"BASELINE",1
+"ID185","Experimental 1",2,"Score 1","S1",2.45,2.5,-0.05,-2,"WEEK 24",2
+"ID185","Experimental 1",2,"Score 1","S1",2.27,2.5,-0.23,-9.2,"WEEK 36",3
+"ID185","Experimental 1",2,"Score 1","S1",2.34,2.5,-0.16,-6.4,"WEEK 52",4
+"ID185","Experimental 1",2,"Score 2","S2",2.82,2.82,NA,NA,"BASELINE",1
+"ID185","Experimental 1",2,"Score 2","S2",2.73,2.82,-0.09,-3.191489362,"WEEK 24",2
+"ID185","Experimental 1",2,"Score 2","S2",2.53,2.82,-0.29,-10.28368794,"WEEK 36",3
+"ID185","Experimental 1",2,"Score 2","S2",2.62,2.82,-0.2,-7.092198582,"WEEK 52",4
+"ID186","Experimental 2",3,"Score 1","S1",2.9,2.9,NA,NA,"BASELINE",1
+"ID186","Experimental 2",3,"Score 1","S1",2.76,2.9,-0.14,-4.827586207,"WEEK 24",2
+"ID186","Experimental 2",3,"Score 1","S1",2.68,2.9,-0.22,-7.586206897,"WEEK 36",3
+"ID186","Experimental 2",3,"Score 1","S1",2.72,2.9,-0.18,-6.206896552,"WEEK 36",3
+"ID186","Experimental 2",3,"Score 1","S1",1.82,2.9,-1.08,-37.24137931,"WEEK 52",4
+"ID186","Experimental 2",3,"Score 2","S2",3.63,3.63,NA,NA,"BASELINE",1
+"ID186","Experimental 2",3,"Score 2","S2",3.5,3.63,-0.13,-3.581267218,"WEEK 24",2
+"ID186","Experimental 2",3,"Score 2","S2",3.35,3.63,-0.28,-7.713498623,"WEEK 36",3
+"ID186","Experimental 2",3,"Score 2","S2",3.36,3.63,-0.27,-7.438016529,"WEEK 36",3
+"ID186","Experimental 2",3,"Score 2","S2",2.77,3.63,-0.86,-23.69146006,"WEEK 52",4
+"ID187","Experimental 2",3,"Score 1","S1",1.81,1.81,NA,NA,"BASELINE",1
+"ID187","Experimental 2",3,"Score 1","S1",1.85,1.81,0.04,2.2099447514,"WEEK 24",2
+"ID187","Experimental 2",3,"Score 1","S1",1.75,1.81,-0.06,-3.314917127,"WEEK 36",3
+"ID187","Experimental 2",3,"Score 1","S1",1.73,1.81,-0.08,-4.419889503,"WEEK 52",4
+"ID187","Experimental 2",3,"Score 2","S2",2.34,2.34,NA,NA,"BASELINE",1
+"ID187","Experimental 2",3,"Score 2","S2",2.3,2.34,-0.04,-1.709401709,"WEEK 24",2
+"ID187","Experimental 2",3,"Score 2","S2",2.16,2.34,-0.18,-7.692307692,"WEEK 36",3
+"ID187","Experimental 2",3,"Score 2","S2",2.23,2.34,-0.11,-4.700854701,"WEEK 52",4
+"ID188","Experimental 1",2,"Score 1","S1",2.02,2.02,NA,NA,"BASELINE",1
+"ID188","Experimental 1",2,"Score 1","S1",2,2.02,-0.02,-0.99009901,"WEEK 24",2
+"ID188","Experimental 1",2,"Score 1","S1",2.01,2.02,-0.01,-0.495049505,"WEEK 36",3
+"ID188","Experimental 1",2,"Score 1","S1",2.05,2.02,0.03,1.4851485149,"WEEK 52",4
+"ID188","Experimental 1",2,"Score 2","S2",2.76,2.76,NA,NA,"BASELINE",1
+"ID188","Experimental 1",2,"Score 2","S2",2.79,2.76,0.03,1.0869565217,"WEEK 24",2
+"ID188","Experimental 1",2,"Score 2","S2",2.77,2.76,0.01,0.3623188406,"WEEK 36",3
+"ID189","Experimental 2",3,"Score 1","S1",1.93,1.93,NA,NA,"BASELINE",1
+"ID189","Experimental 2",3,"Score 1","S1",1.84,1.93,-0.09,-4.663212435,"WEEK 24",2
+"ID189","Experimental 2",3,"Score 1","S1",1.99,1.93,0.06,3.1088082902,"WEEK 36",3
+"ID189","Experimental 2",3,"Score 1","S1",1.91,1.93,-0.02,-1.03626943,"WEEK 52",4
+"ID189","Experimental 2",3,"Score 2","S2",2.94,2.94,NA,NA,"BASELINE",1
+"ID189","Experimental 2",3,"Score 2","S2",2.73,2.94,-0.21,-7.142857143,"WEEK 24",2
+"ID189","Experimental 2",3,"Score 2","S2",3.1,2.94,0.16,5.4421768707,"WEEK 36",3
+"ID189","Experimental 2",3,"Score 2","S2",3.06,2.94,0.12,4.0816326531,"WEEK 52",4
+"ID190","Placebo",1,"Score 1","S1",1.55,1.55,NA,NA,"BASELINE",1
+"ID190","Placebo",1,"Score 1","S1",1.39,1.55,-0.16,-10.32258065,"WEEK 24",2
+"ID190","Placebo",1,"Score 1","S1",1.4,1.55,-0.15,-9.677419355,"WEEK 36",3
+"ID190","Placebo",1,"Score 2","S2",1.94,1.94,NA,NA,"BASELINE",1
+"ID190","Placebo",1,"Score 2","S2",1.73,1.94,-0.21,-10.82474227,"WEEK 24",2
+"ID190","Placebo",1,"Score 2","S2",1.78,1.94,-0.16,-8.24742268,"WEEK 36",3
+"ID191","Experimental 2",3,"Score 1","S1",2.72,2.72,NA,NA,"BASELINE",1
+"ID191","Experimental 2",3,"Score 1","S1",2.21,2.72,-0.51,-18.75,"WEEK 24",2
+"ID191","Experimental 2",3,"Score 1","S1",2.03,2.72,-0.69,-25.36764706,"WEEK 36",3
+"ID191","Experimental 2",3,"Score 1","S1",2.01,2.72,-0.71,-26.10294118,"WEEK 52",4
+"ID191","Experimental 2",3,"Score 2","S2",3.37,3.37,NA,NA,"BASELINE",1
+"ID191","Experimental 2",3,"Score 2","S2",2.68,3.37,-0.69,-20.47477745,"WEEK 24",2
+"ID191","Experimental 2",3,"Score 2","S2",2.33,3.37,-1.04,-30.86053412,"WEEK 36",3
+"ID191","Experimental 2",3,"Score 2","S2",2.57,3.37,-0.8,-23.7388724,"WEEK 52",4
+"ID192","Placebo",1,"Score 1","S1",3.06,3.06,NA,NA,"BASELINE",1
+"ID192","Placebo",1,"Score 1","S1",3.14,3.06,0.08,2.614379085,"WEEK 24",2
+"ID192","Placebo",1,"Score 1","S1",3.01,3.06,-0.05,-1.633986928,"WEEK 36",3
+"ID192","Placebo",1,"Score 1","S1",3,3.06,-0.06,-1.960784314,"WEEK 52",4
+"ID192","Placebo",1,"Score 2","S2",3.61,3.61,NA,NA,"BASELINE",1
+"ID192","Placebo",1,"Score 2","S2",3.74,3.61,0.13,3.6011080332,"WEEK 24",2
+"ID192","Placebo",1,"Score 2","S2",3.59,3.61,-0.02,-0.55401662,"WEEK 36",3
+"ID192","Placebo",1,"Score 2","S2",3.57,3.61,-0.04,-1.108033241,"WEEK 52",4
+"ID193","Placebo",1,"Score 1","S1",2.22,2.22,NA,NA,"BASELINE",1
+"ID193","Placebo",1,"Score 1","S1",2.35,2.22,0.13,5.8558558559,"WEEK 24",2
+"ID193","Placebo",1,"Score 1","S1",2.27,2.22,0.05,2.2522522523,"WEEK 36",3
+"ID193","Placebo",1,"Score 1","S1",2.37,2.22,0.15,6.7567567568,"WEEK 36",3
+"ID193","Placebo",1,"Score 1","S1",2.31,2.22,0.09,4.0540540541,"WEEK 52",4
+"ID193","Placebo",1,"Score 2","S2",2.62,2.62,NA,NA,"BASELINE",1
+"ID193","Placebo",1,"Score 2","S2",2.74,2.62,0.12,4.5801526718,"WEEK 24",2
+"ID193","Placebo",1,"Score 2","S2",2.65,2.62,0.03,1.1450381679,"WEEK 36",3
+"ID193","Placebo",1,"Score 2","S2",2.75,2.62,0.13,4.9618320611,"WEEK 36",3
+"ID193","Placebo",1,"Score 2","S2",2.69,2.62,0.07,2.6717557252,"WEEK 52",4
+"ID194","Placebo",1,"Score 1","S1",1.43,1.43,NA,NA,"BASELINE",1
+"ID194","Placebo",1,"Score 1","S1",1.54,1.43,0.11,7.6923076923,"WEEK 24",2
+"ID194","Placebo",1,"Score 1","S1",1.25,1.43,-0.18,-12.58741259,"WEEK 36",3
+"ID194","Placebo",1,"Score 1","S1",1.13,1.43,-0.3,-20.97902098,"WEEK 52",4
+"ID194","Placebo",1,"Score 2","S2",1.71,1.71,NA,NA,"BASELINE",1
+"ID194","Placebo",1,"Score 2","S2",1.7,1.71,-0.01,-0.584795322,"WEEK 24",2
+"ID194","Placebo",1,"Score 2","S2",1.45,1.71,-0.26,-15.20467836,"WEEK 36",3
+"ID194","Placebo",1,"Score 2","S2",1.31,1.71,-0.4,-23.39181287,"WEEK 52",4
+"ID195","Placebo",1,"Score 1","S1",1.55,1.55,NA,NA,"BASELINE",1
+"ID195","Placebo",1,"Score 1","S1",1.41,1.55,-0.14,-9.032258065,"WEEK 24",2
+"ID195","Placebo",1,"Score 1","S1",1.69,1.55,0.14,9.0322580645,"WEEK 36",3
+"ID195","Placebo",1,"Score 1","S1",1.3,1.55,-0.25,-16.12903226,"WEEK 52",4
+"ID195","Placebo",1,"Score 2","S2",1.94,1.94,NA,NA,"BASELINE",1
+"ID195","Placebo",1,"Score 2","S2",1.74,1.94,-0.2,-10.30927835,"WEEK 24",2
+"ID195","Placebo",1,"Score 2","S2",2.07,1.94,0.13,6.7010309278,"WEEK 36",3
+"ID195","Placebo",1,"Score 2","S2",1.5,1.94,-0.44,-22.68041237,"WEEK 52",4
+"ID196","Placebo",1,"Score 1","S1",2.27,2.27,NA,NA,"BASELINE",1
+"ID196","Placebo",1,"Score 1","S1",2.2,2.27,-0.07,-3.083700441,"WEEK 24",2
+"ID196","Placebo",1,"Score 1","S1",2.14,2.27,-0.13,-5.726872247,"WEEK 36",3
+"ID196","Placebo",1,"Score 1","S1",1.82,2.27,-0.45,-19.82378855,"WEEK 52",4
+"ID196","Placebo",1,"Score 2","S2",2.62,2.62,NA,NA,"BASELINE",1
+"ID196","Placebo",1,"Score 2","S2",2.47,2.62,-0.15,-5.72519084,"WEEK 24",2
+"ID196","Placebo",1,"Score 2","S2",2.38,2.62,-0.24,-9.160305344,"WEEK 36",3
+"ID196","Placebo",1,"Score 2","S2",1.98,2.62,-0.64,-24.42748092,"WEEK 52",4
+"ID197","Experimental 2",3,"Score 1","S1",2.13,2.13,NA,NA,"BASELINE",1
+"ID197","Experimental 2",3,"Score 1","S1",2.06,2.13,-0.07,-3.286384977,"WEEK 24",2
+"ID197","Experimental 2",3,"Score 1","S1",2.04,2.13,-0.09,-4.225352113,"WEEK 36",3
+"ID197","Experimental 2",3,"Score 1","S1",2.09,2.13,-0.04,-1.877934272,"WEEK 52",4
+"ID197","Experimental 2",3,"Score 2","S2",2.87,2.87,NA,NA,"BASELINE",1
+"ID197","Experimental 2",3,"Score 2","S2",2.78,2.87,-0.09,-3.135888502,"WEEK 24",2
+"ID197","Experimental 2",3,"Score 2","S2",2.77,2.87,-0.1,-3.484320557,"WEEK 36",3
+"ID197","Experimental 2",3,"Score 2","S2",2.81,2.87,-0.06,-2.090592334,"WEEK 52",4
+"ID198","Placebo",1,"Score 1","S1",2.48,2.48,NA,NA,"BASELINE",1
+"ID198","Placebo",1,"Score 1","S1",1.83,2.48,-0.65,-26.20967742,"WEEK 24",2
+"ID198","Placebo",1,"Score 1","S1",2.15,2.48,-0.33,-13.30645161,"WEEK 36",3
+"ID198","Placebo",1,"Score 1","S1",2.11,2.48,-0.37,-14.91935484,"WEEK 52",4
+"ID198","Placebo",1,"Score 2","S2",2.51,2.51,NA,NA,"BASELINE",1
+"ID198","Placebo",1,"Score 2","S2",2.11,2.51,-0.4,-15.93625498,"WEEK 24",2
+"ID198","Placebo",1,"Score 2","S2",2.23,2.51,-0.28,-11.15537849,"WEEK 36",3
+"ID198","Placebo",1,"Score 2","S2",2.28,2.51,-0.23,-9.163346614,"WEEK 52",4
+"ID199","Placebo",1,"Score 1","S1",2.07,2.07,NA,NA,"BASELINE",1
+"ID199","Placebo",1,"Score 1","S1",2.26,2.07,0.19,9.1787439614,"WEEK 24",2
+"ID199","Placebo",1,"Score 1","S1",2.36,2.07,0.29,14.009661836,"WEEK 36",3
+"ID199","Placebo",1,"Score 1","S1",2.33,2.07,0.26,12.560386473,"WEEK 52",4
+"ID199","Placebo",1,"Score 2","S2",2.44,2.44,NA,NA,"BASELINE",1
+"ID199","Placebo",1,"Score 2","S2",2.68,2.44,0.24,9.8360655738,"WEEK 24",2
+"ID199","Placebo",1,"Score 2","S2",2.8,2.44,0.36,14.754098361,"WEEK 36",3
+"ID200","Placebo",1,"Score 1","S1",2.13,2.13,NA,NA,"BASELINE",1
+"ID200","Placebo",1,"Score 1","S1",1.98,2.13,-0.15,-7.042253521,"WEEK 24",2
+"ID200","Placebo",1,"Score 1","S1",2.06,2.13,-0.07,-3.286384977,"WEEK 36",3
+"ID200","Placebo",1,"Score 1","S1",2.01,2.13,-0.12,-5.633802817,"WEEK 52",4
+"ID200","Placebo",1,"Score 2","S2",2.78,2.78,NA,NA,"BASELINE",1
+"ID200","Placebo",1,"Score 2","S2",2.57,2.78,-0.21,-7.553956835,"WEEK 24",2
+"ID200","Placebo",1,"Score 2","S2",2.62,2.78,-0.16,-5.755395683,"WEEK 36",3
+"ID200","Placebo",1,"Score 2","S2",2.54,2.78,-0.24,-8.633093525,"WEEK 52",4
