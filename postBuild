@@ -1,2 +1,7 @@
+# Install Jupyterextension package
 jupyter contrib nbextension install --user
 jupyter nbextension enable collapsible_headings/main
+
+# Install configurator and enable configurator
+pip install jupyter_nbextensions_configurator
+jupyter nbextensions_configurator enable
