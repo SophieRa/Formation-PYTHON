@@ -5,3 +5,4 @@ pandas
 sklearn
 jupyter
 jupyter-contrib-nbextensions
+plotly
