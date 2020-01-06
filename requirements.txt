@@ -7,3 +7,4 @@ statsmodels
 jupyter
 jupyter-contrib-nbextensions
 plotly
+pyreadstat
